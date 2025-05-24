@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xin Lan | Water Resources & Machine Learning & Remote Sensing"
+title                    : "Xin Lan | Water Resources & Machine Learning"
 title_separator          : "-"
 name                     : &name "Xin Lan"
 description              : &description "PhD Candidate in water resources and machine learning"
