@@ -26,11 +26,11 @@ hr {
 }
 
 ul li {
-  margin-bottom: 0.1em;
+  margin-bottom: 0.05em;
 }
 
 ol li {
-  margin-bottom: 0.1em;
+  margin-bottom: 0.05em;
 }
 </style>
 
