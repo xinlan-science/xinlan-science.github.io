@@ -15,21 +15,17 @@ h2 {
 hr {
   border: none;
   height: 1px;
-  background-color: #d1d5db;
-  margin: 1.5em 0 1.5em 0;
+  background-color: #111;  /* black for light mode */
+  margin: 1.5em 0;
 }
 
 @media (prefers-color-scheme: dark) {
   hr {
-    background-color: #4b5563;
+    background-color: #fff;  /* white for dark mode */
   }
 }
 
-ul li {
-  margin-bottom: 0.15em;
-}
-
-ol li {
+ul li, ol li {
   margin-bottom: 0.15em;
 }
 </style>
@@ -51,19 +47,23 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 🎓 Education
 
-### Michigan State University (2020–2025)
-* Ph.D. in Geography, Environment, and Spatial Sciences
-* Ph.D. in Environmental Science and Policy *(Dual Majors)*
+* **Ph.D. in Geography, Environment, and Spatial Sciences** (2020–2025)  
+  [Michigan State University](https://msu.edu/), Department of [Geography, Environment, and Spatial Sciences](https://geo.msu.edu/)
 
-### University of Pennsylvania (2020–2024)
-* M.S. in Computer and Information Technology
+* **Ph.D. in Environmental Science and Policy** (2020–2025)  
+  [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://esp.msu.edu/)
 
-### Columbia University (2017–2019)
-* M.S. in Earth and Environmental Engineering
+* **M.S. in Computer and Information Technology** (2020–2024)  
+  [University of Pennsylvania](https://www.upenn.edu/), [MCIT Program](https://online.seas.upenn.edu/degrees/mcit-online/)
 
-### China University of Geosciences (Beijing) (2012–2016)
-* B.S. in Marine Sciences
-* B.B.A. in Business Administration
+* **M.S. in Earth and Environmental Engineering** (2017–2019)  
+  [Columbia University](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/)
+
+* **B.S. in Marine Sciences** (2012–2016)  
+  [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), [School of Ocean Sciences](https://sos.cugb.edu.cn/)
+
+* **B.B.A. in Business Administration** (2012–2016)  
+  [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/)
 
 ## 🔬 Research Experience
 
