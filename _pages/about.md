@@ -10,13 +10,13 @@ redirect_from:
 <style>
 h2 {
   color: #1e40af;
-  margin-top: 1em;
+  margin-top: 2.5em;
 }
 
 hr {
   border: none;
   height: 1px;
-  background-color: #e5e7eb;
+  background-color: #d1d5db;
   margin: 2.5em 0 1.5em 0;
 }
 
@@ -77,26 +77,23 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 📚 Teaching Experience
 
-### Instructor-GEO 203v Introduction to Meteorology (May–Jun 2025)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+### Instructor (May–Jun 2025; May–Aug 2021)  
+*GEO 203V Introduction to Meteorology, Michigan State University*  
 
-### Instructor-GEO 221Lv Introduction to Geographic Information Lab (Sep–Dec 2022)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+### Instructor (Sep–Dec 2022)  
+*GEO 221Lv Introduction to Geographic Information Lab, Michigan State University*  
 
-### Teaching Assistant-ESE 5410 Machine Learning for Data Science (Jan–Dec 2024)  
-*Computer and Information Technology Program, University of Pennsylvania*  
+### Teaching Assistant (Jan–Dec 2024)  
+*ESE 5410 Machine Learning for Data Science, University of Pennsylvania*  
 
-### Instructor-GEO 203v Introduction to Meteorology (May–Aug 2021)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+### Teaching Assistant (Jan–Apr 2021)  
+*GEO 337 Geography of East Asia, Michigan State University*  
 
-### Teaching Assistant-GEO 337 Geography of East Asia (Jan–Apr 2021)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
-
-### Teaching Assistant-ISS 315 Global Diversity and Interdependence (Sep–Apr 2021)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+### Teaching Assistant (Sep–Dec 2020; Jan–Apr 2021)  
+*ISS 315 Global Diversity and Interdependence, Michigan State University*  
   
-### Teaching Assistant-GEO 203 Introduction to Meteorology (Sep–Dec 2020)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+### Teaching Assistant (Sep–Dec 2020)  
+*GEO 203 Introduction to Meteorology, Michigan State University*  
 
 ## 🤝 Leadership & Service Experience
 
