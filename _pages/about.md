@@ -38,12 +38,16 @@ I hold a Bachelor's degree in [Marine Sciences](https://sos.cugb.edu.cn/) from t
 
 Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://esp.msu.edu/), with a focus on climate variability and policy-relevant research.
 
+<hr />
+
 ## 🌱 Research Interests
 
 - Water resources modeling and management
 - Machine learning applications in hydrology
 - Climate change impacts on water systems
 - Hydrological forecasting and prediction
+
+<hr />
 
 ## 🎓 Education
 
@@ -65,6 +69,8 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **B.B.A. in Business Administration** (2012–2016)  
   [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/)
 
+<hr />
+
 ## 🔬 Research Experience
 
 * **Visiting Researcher** (May 2025–Present)  
@@ -79,33 +85,37 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **Research Assistant** (Sep 2018–May 2019)  
   [Columbia Water Center](http://water.columbia.edu/), [Columbia University](https://www.columbia.edu/)
 
+<hr />
+
 ## 📚 Teaching Experience
 
 * **Instructor** (May–Jun 2025; May–Aug 2021)  
-  * [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
+  [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
 
 * **Instructor** (Sep–Dec 2022)  
-  * [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
+  [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
 
 * **Teaching Assistant** (Jan–Dec 2024)  
-  * [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), <u>University of Pennsylvania</u>
+  [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), [University of Pennsylvania](https://www.upenn.edu/)
 
 * **Teaching Assistant** (Jan–Apr 2021)  
-  * [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx), [Michigan State University](https://msu.edu/)
+  [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx), [Michigan State University](https://msu.edu/)
 
 * **Teaching Assistant** (Sep–Dec 2020; Jan–Apr 2021)  
-  * [ISS 315 Global Diversity and Interdependence](https://integrativestudies.msu.edu/iss/courses.html), [Michigan State University](https://msu.edu/)
+  [ISS 315 Global Diversity and Interdependence](https://integrativestudies.msu.edu/iss/courses.html), [Michigan State University](https://msu.edu/)
 
 * **Teaching Assistant** (Sep–Dec 2020)  
-  * [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), [Michigan State University](https://msu.edu/)
+  [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), [Michigan State University](https://msu.edu/)
+
+<hr />
 
 ## 🤝 Leadership & Service Experience
 
 * **Environmental, Social, and Governance Analyst** (Nov 2024–Present)  
-  * Penn Quakers Venture Club, [University of Pennsylvania](https://www.upenn.edu/)
+  Penn Quakers Venture Club, [University of Pennsylvania](https://www.upenn.edu/)
 
 * **Admission Ambassador** (Sep 2024–Present)  
-  * Computer and Information Technology Program, [University of Pennsylvania](https://www.upenn.edu/)
+  Computer and Information Technology Program, [University of Pennsylvania](https://www.upenn.edu/)
 
 * **Student Representative on Dean's Student Advisory Council** (Nov 2023–Aug 2024)  
-  * College of Social Science, [Michigan State University](https://msu.edu/)
+  College of Social Science, [Michigan State University](https://msu.edu/)
