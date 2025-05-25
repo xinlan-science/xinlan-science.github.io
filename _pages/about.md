@@ -9,36 +9,25 @@ redirect_from:
 
 <style>
 h2 {
-  margin-top: 1.5em;
-  position: relative;
-  padding-bottom: 0.2em;
+  margin-top: 3em;     /* more spacing between sections */
+  margin-bottom: 0.6em;
   font-weight: 600;
 }
 
+/* Remove any default underline or after-pseudo content */
 h2::after {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 1px;
-  background-color: #111; /* black line for light mode */
-  margin-top: 0.2em;
-}
-
-@media (prefers-color-scheme: dark) {
-  h2::after {
-    background-color: #fff; /* white line for dark mode */
-  }
+  display: none !important;
 }
 
 ul li, ol li {
   margin-bottom: 0.15em;
 }
 
+/* Completely hide any HR if accidentally left in */
 hr {
-  display: none; /* completely disable hr if not needed */
+  display: none !important;
 }
 </style>
-
 
 ## 👋 About Me
 
@@ -54,7 +43,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 - Machine learning applications in hydrology  
 - Climate change impacts on water systems  
 - Hydrological forecasting and prediction
-
 
 ## 🎓 Education
 
@@ -76,8 +64,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **B.B.A. in Business Administration** (2012–2016)  
   [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/)
 
-<hr />
-
 ## 🔬 Research Experience
 
 * **Visiting Researcher** (May 2025–Present)  
@@ -91,8 +77,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 * **Research Assistant** (Sep 2018–May 2019)  
   [Columbia Water Center](http://water.columbia.edu/), [Columbia University](https://www.columbia.edu/)
-
-<hr />
 
 ## 📚 Teaching Experience
 
@@ -113,8 +97,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 * **Teaching Assistant** (Sep–Dec 2020)  
   [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), [Michigan State University](https://msu.edu/)
-
-<hr />
 
 ## 🤝 Leadership & Service Experience
 
