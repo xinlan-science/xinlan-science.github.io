@@ -32,7 +32,7 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 ## 🎓 Education
 
 ### <img src="/images/msu_logo.png" alt="MSU" width="24"/> Michigan State University (2020–2025)
-- **Ph.D. in GEOGRAPHY, ENVIRONMENT, AND SPATIAL SCIENCES**  
+- **Ph.D. in Geography, Environment, and Spatial Sciences**  
 - **Ph.D. in Environmental Science and Policy** *(Dual Majors)*
 
 ### <img src="/images/upenn_logo.png" alt="UPenn" width="24"/> University of Pennsylvania (2020–2024)
