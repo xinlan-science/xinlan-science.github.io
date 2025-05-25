@@ -10,7 +10,31 @@ redirect_from:
 <style>
 h2 {
   color: #1e40af;
-  margin-top: 1.5em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-bottom: 0.3em;
+  margin-top: 1em;
+}
+
+h3 + p {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+p + p {
+  margin-top: 0.1em;
+}
+
+ul {
+  margin-top: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+li {
+  margin-bottom: 0.2em;
 }
 </style>
 
@@ -72,8 +96,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 📚 Teaching Experience
 
-<div class="teaching-experience">
-
 ### Instructor (May–Jun 2025; May–Aug 2021)  
 *Department of Geography, Environment, and Spatial Sciences*  
 *Michigan State University*  
@@ -88,23 +110,18 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 *Computer and Information Technology Program*  
 *University of Pennsylvania*  
 - ESE 5410 – Machine Learning for Data Science  
-  ▪ Jan–Apr 2024  
-  ▪ Apr–Aug 2024  
-  ▪ Aug–Dec 2024
-
-### Teaching Assistant (Sep–Dec 2020)  
-*Department of Geography, Environment, and Spatial Sciences*  
-*Michigan State University*  
-- ISS 315 – Global Diversity and Interdependence  
 
 ### Teaching Assistant (Jan–Apr 2021)  
 *Department of Geography, Environment, and Spatial Sciences*  
 *Michigan State University*  
 - GEO 337 – Geography of East Asia  
+- ISS 315 – Global Diversity and Interdependence   
+  
+### Teaching Assistant (Sep–Dec 2020)  
+*Department of Geography, Environment, and Spatial Sciences*  
+*Michigan State University*  
+- ISS 315 – Global Diversity and Interdependence   
 - GEO 203 – Introduction to Meteorology
-
-</div>
-
   
 ---
 
