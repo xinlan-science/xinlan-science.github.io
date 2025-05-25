@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin Lan | Water Resources & Machine Learning"
+title                    : "Xin Lan"
 title_separator          : "-"
-name                     : &name "Xin Lan"
-description              : &description "PhD Candidate in water resources and machine learning"
+#name                     : &name "Xin Lan"
+#description              : &description "PhD Candidate in water resources and machine learning"
 url                      : https://xinlan-science.github.io
 baseurl                  : ""
 repository               : "xinlan-science/xinlan-science.github.io"
