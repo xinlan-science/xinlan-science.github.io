@@ -72,31 +72,40 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 📚 Teaching Experience
 
+<div class="teaching-experience">
+
 ### Instructor (May–Jun 2025; May–Aug 2021)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+*Department of Geography, Environment, and Spatial Sciences*  
+*Michigan State University*  
 - GEO 203V – Introduction to Meteorology  
 
 ### Instructor (Sep–Dec 2022)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+*Department of Geography, Environment, and Spatial Sciences*  
+*Michigan State University*  
 - GEO 221Lv – Introduction to Geographic Information Lab
 
 ### Teaching Assistant (Jan–Dec 2024)  
-*Computer and Information Technology Program, University of Pennsylvania*  
+*Computer and Information Technology Program*  
+*University of Pennsylvania*  
 - ESE 5410 – Machine Learning for Data Science  
   ▪ Jan–Apr 2024  
   ▪ Apr–Aug 2024  
   ▪ Aug–Dec 2024
 
 ### Teaching Assistant (Sep–Dec 2020)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+*Department of Geography, Environment, and Spatial Sciences*  
+*Michigan State University*  
 - ISS 315 – Global Diversity and Interdependence  
-- GEO 203 – Introduction to Meteorology
 
 ### Teaching Assistant (Jan–Apr 2021)  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
-- GEO 337 – Geography of East Asia
-- ISS 315 – Global Diversity and Interdependence  
+*Department of Geography, Environment, and Spatial Sciences*  
+*Michigan State University*  
+- GEO 337 – Geography of East Asia  
+- GEO 203 – Introduction to Meteorology
 
+</div>
+
+  
 ---
 
 ## 🤝 Leadership & Service Experience
