@@ -10,32 +10,35 @@ redirect_from:
 <style>
 h2 {
   margin-top: 1.5em;
+  position: relative;
+  padding-bottom: 0.2em;
+  font-weight: 600;
 }
 
-/* Custom <hr> for manual sections */
-hr {
-  border: none;
+h2::after {
+  content: "";
+  display: block;
+  width: 100%;
   height: 1px;
-  background-color: #111 !important;
-  margin: 1.5em 0;
+  background-color: #111; /* black line for light mode */
+  margin-top: 0.2em;
 }
 
-/* Remove the first HR after YAML front matter */
-hr:first-of-type {
-  display: none !important;
-}
-
-/* Dark mode styling */
 @media (prefers-color-scheme: dark) {
-  hr {
-    background-color: #fff !important;
+  h2::after {
+    background-color: #fff; /* white line for dark mode */
   }
 }
 
 ul li, ol li {
   margin-bottom: 0.15em;
 }
+
+hr {
+  display: none; /* completely disable hr if not needed */
+}
 </style>
+
 
 ## 👋 About Me
 
@@ -45,8 +48,6 @@ I hold a Bachelor's degree in [Marine Sciences](https://sos.cugb.edu.cn/) from t
 
 Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://esp.msu.edu/), with a focus on climate variability and policy-relevant research.
 
-<hr />
-
 ## 🌱 Research Interests
 
 - Water resources modeling and management  
@@ -54,7 +55,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 - Climate change impacts on water systems  
 - Hydrological forecasting and prediction
 
-<hr />
 
 ## 🎓 Education
 
