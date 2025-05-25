@@ -22,37 +22,37 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 🌱 Research Interests
 
-- **Water resources modeling and management**  
-- **Machine learning applications in hydrology**  
-- **Climate change impacts on water systems**  
-- **Hydrological forecasting and prediction**
+- Water resources modeling and management
+- Machine learning applications in hydrology
+- Climate change impacts on water systems
+- Hydrological forecasting and prediction
 
 ---
 
 ## 🎓 Education
 
-### <img src="/images/msu_logo.png" alt="MSU" width="24"/> Michigan State University (2020–2025)
-- **Ph.D. in Geography, Environment, and Spatial Sciences**  
-- **Ph.D. in Environmental Science and Policy** *(Dual Majors)*
+### Michigan State University (2020–2025)
+- Ph.D. in Geography, Environment, and Spatial Sciences
+- Ph.D. in Environmental Science and Policy *(Dual Majors)*
 
-### <img src="/images/upenn_logo.png" alt="UPenn" width="24"/> University of Pennsylvania (2020–2024)
-- **M.S. in Computer and Information Technology**
+### University of Pennsylvania (2020–2024)
+- M.S. in Computer and Information Technology
 
-### <img src="/images/columbia_logo.png" alt="Columbia" width="24"/> Columbia University (2017–2019)
-- **M.S. in Earth and Environmental Engineering**
+### Columbia University (2017–2019)
+- M.S. in Earth and Environmental Engineering
 
-### <img src="/images/cugb_logo.png" alt="CUGB" width="24"/> China University of Geosciences (Beijing) (2012–2016)
-- **B.S. in Marine Sciences**  
-- **B.B.A. in Business Administration**
+### China University of Geosciences (Beijing) (2012–2016)
+- B.S. in Marine Sciences
+- B.B.A. in Business Administration
 
 ---
 
 ## 🔬 Research Experience
 
 **Visiting Student Researcher**  
-*Dr. Ximing Cai’s Lab, University of Illinois Urbana-Champaign (May 2025–Present)* 
+*Dr. Ximing Cai's Lab, University of Illinois Urbana-Champaign (May 2025–Present)*
 
-**Research Intern**  
+**Research Internship**  
 *Spatial Data Lab, Harvard University (Apr 2025–Present)*
 
 **Research Assistant**  
@@ -68,27 +68,46 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 📚 Teaching Experience
 
-**Instructor**  
-*Department of Geography, Michigan State University*  
-▪ May–Jun 2025  
-▪ Sep–Dec 2022  
-▪ May–Aug 2021
+### Instructor  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*
 
-**Teaching Assistant**  
-*University of Pennsylvania – Computer and Information Technology Program*  
-▪ Jan–Dec 2024
+- **GEO 203V – Introduction to Meteorology**  
+  ▪ May–Jun 2025  
+  ▪ May–Aug 2021  
+- **GEO 221Lv – Introduction to Geographic Information Lab**  
+  ▪ Sep–Dec 2022
 
-**Teaching Assistant**  
-*Michigan State University – Department of Geography*  
-▪ Sep 2020–Apr 2021
+---
 
-## Leadership & Service Experience
+### Teaching Assistant  
+*Computer and Information Technology Program, University of Pennsylvania*
 
-* ***Environmental, Social, and Governance Analyst*** (2024.11 - Present)  
-  ▪ Penn Quakers Venture Club, University of Pennsylvania
+- **ESE 5410 – Machine Learning for Data Science**  
+  ▪ Jan–Apr 2024  
+  ▪ Apr–Aug 2024  
+  ▪ Aug–Dec 2024
 
-* ***Admission Ambassador*** (2024.09 - Present)  
-  ▪ Computer and Information Technology Program, University of Pennsylvania
+---
 
-* ***Student Representative on Dean's Student Advisory Council*** (2023.11 - 2024.08)  
-  ▪ College of Social Science, Michigan State University
+### Teaching Assistant  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*
+
+- **ISS 315 – Global Diversity and Interdependence**  
+  ▪ Sep–Dec 2020  
+- **GEO 337 – Geography of East Asia**  
+  ▪ Sep–Dec 2020  
+- **GEO 203 – Introduction to Meteorology**  
+  ▪ Jan–Apr 2021
+
+---
+
+## 🤝 Leadership & Service Experience
+
+***Environmental, Social, and Governance Analyst*** (2024.11 - Present)  
+▪ Penn Quakers Venture Club, University of Pennsylvania
+
+***Admission Ambassador*** (2024.09 - Present)  
+▪ Computer and Information Technology Program, University of Pennsylvania
+
+***Student Representative on Dean's Student Advisory Council*** (2023.11 - 2024.08)  
+▪ College of Social Science, Michigan State University
