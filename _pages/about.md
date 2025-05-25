@@ -78,7 +78,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 ## 📚 Teaching Experience
 
 ### Instructor (May–Jun 2025; May–Aug 2021)  
-*GEO 203V Introduction to Meteorology, Michigan State University*  
+*GEO 203v Introduction to Meteorology, Michigan State University*  
 
 ### Instructor (Sep–Dec 2022)  
 *GEO 221Lv Introduction to Geographic Information Lab, Michigan State University*  
