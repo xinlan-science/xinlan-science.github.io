@@ -9,59 +9,76 @@ redirect_from:
 
 <style>
 h2 {
-  color: #1e3a8a !important; /* Navy blue color */
+  color: #1e40af;
+  margin-top: 1.5em;
 }
 </style>
 
-As a hydrologist, I am at the forefront of tackling the global challenge of water scarcity by employing a blend of state-of-the-art hydrological models, remote sensing technologies, and machine learning. My work is rooted in a deep understanding of water systems and is driven by a passion for developing sustainable water management and conservation solutions.
+## 👋 About Me
 
-## Research Interests
+As a hydrologist, I tackle the global challenge of water scarcity by integrating advanced hydrological models, remote sensing technologies, and machine learning. My work combines a deep understanding of water systems with a commitment to developing sustainable water management and conservation strategies.
 
-* Water resources modeling and management
-* Machine learning applications in hydrology
-* Climate change impact on water systems
-* Hydrological forecasting and prediction
+---
 
-## Education
+## 🌱 Research Interests
 
-### Michigan State University (2020 - 2025)
-* **PhD in Geography, Environment, and Spatial Sciences**
-* **PhD in Environmental Science and Policy** (Dual Majors)
+- **Water resources modeling and management**  
+- **Machine learning applications in hydrology**  
+- **Climate change impacts on water systems**  
+- **Hydrological forecasting and prediction**
 
-### University of Pennsylvania (2020 - 2024)
-* **Master of Science in Computer and Information Technology**
+---
 
-### Columbia University (2017 - 2019)
-* **Master of Science in Earth and Environmental Engineering**
+## 🎓 Education
 
-### China University of Geosciences (Beijing) (2012 - 2016)
-* **Bachelor of Science in Marine Sciences** 
-* **Bachelor of Business Administration**
+### 🟢 Michigan State University (2020–2025)
+- **Ph.D. in GEOGRAPHY, ENVIRONMENT, AND SPATIAL SCIENCES**  
+- **Ph.D. in Environmental Science and Policy** *(Dual Majors)*
 
-## Research Experience
+### 🟦 University of Pennsylvania (2020–2024)
+- **M.S. in Computer and Information Technology**
 
-* ***Visiting Student Researcher*** (2025.05 - Present)  
-  ▪ Dr. Ximing Cai's Lab, University of Illinois Urbana-Champaign
+### 🟨 Columbia University (2017–2019)
+- **M.S. in Earth and Environmental Engineering**
 
-* ***Research Internship*** (2025.04 - Present)  
-  ▪ Spatial Data Lab, Harvard University
+### 🇨🇳 China University of Geosciences (Beijing) (2012–2016)
+- **B.S. in Marine Sciences**  
+- **B.B.A. in Business Administration**
 
-* ***Research Assistant*** (2021.09 - Present)  
-  ▪ Hydroclimatology Research Group, Michigan State University
+---
 
-* ***Research Assistant*** (2019.05 - 2020.02)  
-  ▪ Center for Advanced Materials for Energy and Environment, Columbia University
+## 🔬 Research Experience
 
-* ***Research Assistant*** (2018.09 - 2019.05)  
-  ▪ Columbia Water Center, Columbia University
+**Visiting Student Researcher**  
+*University of Illinois Urbana-Champaign (May 2025–Present)*  
+▪ Dr. Ximing Cai’s Lab
 
-## Teaching Experience
+**Research Intern**  
+*Spatial Data Lab, Harvard University (Apr 2025–Present)*
 
-* ***Teaching Assistant*** (2024.01 - 2024.12)  
-  ▪ Computer and Information Technology Program, University of Pennsylvania
+**Research Assistant**  
+*Hydroclimatology Research Group, Michigan State University (Sep 2021–Present)*
 
-* ***Instructor*** (2025.05 - 2025.06 & 2022.09 - 2022.12 & 2021.05 - 2021.08)  
-  ▪ Department of Geography, Michigan State University
+**Research Assistant**  
+*Center for Advanced Materials for Energy and Environment, Columbia University (May 2019–Feb 2020)*
 
-* ***Teaching Assistant*** (2020.09 - 2021.04)  
-  ▪ Department of Geography, Michigan State University
+**Research Assistant**  
+*Columbia Water Center, Columbia University (Sep 2018–May 2019)*
+
+---
+
+## 📚 Teaching Experience
+
+**Instructor**  
+*Department of Geography, Michigan State University*  
+▪ May–Jun 2025  
+▪ Sep–Dec 2022  
+▪ May–Aug 2021
+
+**Teaching Assistant**  
+*University of Pennsylvania – Computer and Information Technology Program*  
+▪ Jan–Dec 2024
+
+**Teaching Assistant**  
+*Michigan State University – Department of Geography*  
+▪ Sep 2020–Apr 2021
