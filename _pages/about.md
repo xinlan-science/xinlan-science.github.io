@@ -53,7 +53,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
   [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://espp.msu.edu/)
 
 * **M.S. in Computer and Information Technology** (2020–2024)  
-  [University of Pennsylvania](https://www.upenn.edu/), [MCIT Program](https://online.seas.upenn.edu/degrees/mcit-online/)
+  [University of Pennsylvania](https://www.upenn.edu/), [Computer and Information Technology Program](https://online.seas.upenn.edu/degrees/mcit-online/)
 
 * **M.S. in Earth and Environmental Engineering** (2017–2019)  
   [Columbia University](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/)
