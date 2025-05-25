@@ -10,8 +10,6 @@
 locale                   : "en-US"
 title                    : "Xin Lan | PhD candidate at Michigan State University"
 title_separator          : "-"
-#name                     : &name "Xin Lan"
-#description              : &description "PhD Candidate in water resources and machine learning"
 url                      : https://xinlan-science.github.io
 baseurl                  : ""
 repository               : "xinlan-science/xinlan-science.github.io"
