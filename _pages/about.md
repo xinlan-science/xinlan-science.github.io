@@ -16,7 +16,11 @@ h2 {
 
 ## 👋 About Me
 
-As a hydrologist, I tackle the global challenge of water scarcity by integrating advanced hydrological models, remote sensing technologies, and machine learning. My work combines a deep understanding of water systems with a commitment to developing sustainable water management and conservation strategies.
+I am a hydrologist and interdisciplinary researcher working at the intersection of water resources, hydrology, remote sensing, machine learning, and coupled human-natural systems. My work integrates advanced hydrological modeling and data-driven methods to address the global challenge of water scarcity, with the goal of supporting resilient and sustainable water management strategies.
+
+I hold a Bachelor's degree in [Marine Sciences](https://en.cugb.edu.cn/Academics/Programs/Undergraduate_Programs.htm) from the [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), a Master's in [Earth and Environmental Engineering](https://earth.columbia.edu/areas-of-study/earth-and-environmental-engineering/) from [Columbia University](https://www.columbia.edu/), and a Master of Science in [Computer and Information Technology](https://online.seas.upenn.edu/degrees/mcit-online/) from the [University of Pennsylvania](https://www.upenn.edu/). This diverse academic background enables me to approach water challenges from both physical science and computational perspectives.
+
+Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://esp.msu.edu/), with a focus on climate variability, water system modeling, and policy-relevant research.
 
 ---
 
@@ -49,65 +53,59 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 🔬 Research Experience
 
-**Visiting Researchers**  
-*Dr. Ximing Cai's Lab, University of Illinois Urbana-Champaign (May 2025–Present)*
+### Visiting Researcher (May 2025–Present)  
+*Dr. Ximing Cai's Lab, University of Illinois Urbana-Champaign*
 
-**Research Internship**  
-*Spatial Data Lab, Harvard University (Apr 2025–Present)*
+### Research Intern (Apr 2025–Present)  
+*Spatial Data Lab, Harvard University*
 
-**Research Assistant**  
-*Hydroclimatology Research Group, Michigan State University (Sep 2021–Present)*
+### Research Assistant (Sep 2021–Present)  
+*Hydroclimatology Research Group, Michigan State University*
 
-**Research Assistant**  
-*Center for Advanced Materials for Energy and Environment, Columbia University (May 2019–Feb 2020)*
+### Research Assistant (May 2019–Feb 2020)  
+*Center for Advanced Materials for Energy and Environment, Columbia University*
 
-**Research Assistant**  
-*Columbia Water Center, Columbia University (Sep 2018–May 2019)*
+### Research Assistant (Sep 2018–May 2019)  
+*Columbia Water Center, Columbia University*
 
 ---
 
 ## 📚 Teaching Experience
 
-### Instructor  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*
+### Instructor (May–Jun 2025; May–Aug 2021)  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+- GEO 203V – Introduction to Meteorology  
 
-- **GEO 203V – Introduction to Meteorology**  
-  ▪ May–Jun 2025  
-  ▪ May–Aug 2021  
-- **GEO 221Lv – Introduction to Geographic Information Lab**  
-  ▪ Sep–Dec 2022
+### Instructor (Sep–Dec 2022)  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+- GEO 221Lv – Introduction to Geographic Information Lab
 
----
-
-### Teaching Assistant  
-*Computer and Information Technology Program, University of Pennsylvania*
-
-- **ESE 5410 – Machine Learning for Data Science**  
+### Teaching Assistant (Jan–Dec 2024)  
+*Computer and Information Technology Program, University of Pennsylvania*  
+- ESE 5410 – Machine Learning for Data Science  
   ▪ Jan–Apr 2024  
   ▪ Apr–Aug 2024  
   ▪ Aug–Dec 2024
 
----
+### Teaching Assistant (Sep–Dec 2020)  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+- ISS 315 – Global Diversity and Interdependence  
+- GEO 203 – Introduction to Meteorology
 
-### Teaching Assistant  
-*Department of Geography, Environment, and Spatial Sciences, Michigan State University*
-
-- **ISS 315 – Global Diversity and Interdependence**  
-  ▪ Sep–Dec 2020  
-- **GEO 337 – Geography of East Asia**  
-  ▪ Sep–Dec 2020  
-- **GEO 203 – Introduction to Meteorology**  
-  ▪ Jan–Apr 2021
+### Teaching Assistant (Jan–Apr 2021)  
+*Department of Geography, Environment, and Spatial Sciences, Michigan State University*  
+- GEO 337 – Geography of East Asia
+- ISS 315 – Global Diversity and Interdependence  
 
 ---
 
 ## 🤝 Leadership & Service Experience
 
-***Environmental, Social, and Governance Analyst*** (2024.11 - Present)  
-▪ Penn Quakers Venture Club, University of Pennsylvania
+### Environmental, Social, and Governance Analyst (Nov 2024–Present)  
+*Penn Quakers Venture Club, University of Pennsylvania*
 
-***Admission Ambassador*** (2024.09 - Present)  
-▪ Computer and Information Technology Program, University of Pennsylvania
+### Admission Ambassador (Sep 2024–Present)  
+*Computer and Information Technology Program, University of Pennsylvania*
 
-***Student Representative on Dean's Student Advisory Council*** (2023.11 - 2024.08)  
-▪ College of Social Science, Michigan State University
+### Student Representative on Dean's Student Advisory Council (Nov 2023–Aug 2024)  
+*College of Social Science, Michigan State University*
