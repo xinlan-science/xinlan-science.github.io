@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin Lan | PhD candidate at Michigan State University"
+title                    : "Xin Lan | Ph.D. candidate at Michigan State University"
 title_separator          : "-"
 url                      : https://xinlan-science.github.io
 baseurl                  : ""
@@ -19,7 +19,7 @@ author:
   avatar           : "profile.png"
   name             : "Xin Lan"
   pronouns         : "He/Him/His"  
-  bio              : "PhD candidate at Michigan State University"
+  bio              : "Ph.D. candidate at Michigan State University"
   uri              : "https://geo.msu.edu/directory/lan-xin.html"
   email            : "lanxin1@msu.edu" 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hDHQtHAAAAAJ&view_op=list_works&sortby=pubdate"
