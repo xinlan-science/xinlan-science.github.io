@@ -49,7 +49,7 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 🔬 Research Experience
 
-**Visiting Student Researcher**  
+**Visiting Researchers**  
 *Dr. Ximing Cai's Lab, University of Illinois Urbana-Champaign (May 2025–Present)*
 
 **Research Internship**  
