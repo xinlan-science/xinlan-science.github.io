@@ -89,7 +89,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 ### Teaching Assistant (Jan–Apr 2021)  
 *GEO 337 Geography of East Asia, Michigan State University*  
 
-### Teaching Assistant (Sep–Dec 2020; Jan–Apr 2021)  
+### Teaching Assistant (Sep–Apr 2021)  
 *ISS 315 Global Diversity and Interdependence, Michigan State University*  
   
 ### Teaching Assistant (Sep–Dec 2020)  
