@@ -9,14 +9,14 @@ redirect_from:
 
 As a hydrologist, I am at the forefront of tackling the global challenge of water scarcity by employing a blend of state-of-the-art hydrological models, remote sensing technologies, and machine learning. My work is rooted in a deep understanding of water systems and is driven by a passion for developing sustainable water management and conservation solutions.
 
-## Research Interests
+## <i class="fas fa-flask" aria-hidden="true"></i> Research Interests
 
 * Water resources modeling and management
 * Machine learning applications in hydrology
 * Climate change impact on water systems
 * Hydrological forecasting and prediction
 
-## Education
+## <i class="fas fa-graduation-cap" aria-hidden="true"></i> Education
 
 * **PhD in Geography, Environment, and Spatial Sciences** (2020 - 2025)  
   Michigan State University, East Lansing, MI
@@ -36,8 +36,9 @@ As a hydrologist, I am at the forefront of tackling the global challenge of wate
 * **Bachelor of Business Administration** (2014 - 2016)  
   China University of Geosciences (Beijing), Beijing, China
 
-## Research Experience
+## <i class="fas fa-microscope" aria-hidden="true"></i> Research Experience
 
-* **Graduate Research Assistant** (Present)  
+* **Graduate Research Assistant** (2020 - Present)  
   Michigan State University  
+  Department of Geography, Environment, and Spatial Sciences  
   Supervisor: [Advisor Name]
