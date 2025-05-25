@@ -31,17 +31,17 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 🎓 Education
 
-### <img src="/assets/images/msu_logo.png" alt="MSU" width="24"/> Michigan State University (2020–2025)
+### <img src="/images/msu_logo.png" alt="MSU" width="24"/> Michigan State University (2020–2025)
 - **Ph.D. in GEOGRAPHY, ENVIRONMENT, AND SPATIAL SCIENCES**  
 - **Ph.D. in Environmental Science and Policy** *(Dual Majors)*
 
-### <img src="/assets/images/upenn_logo.png" alt="UPenn" width="24"/> University of Pennsylvania (2020–2024)
+### <img src="/images/upenn_logo.png" alt="UPenn" width="24"/> University of Pennsylvania (2020–2024)
 - **M.S. in Computer and Information Technology**
 
-### <img src="/assets/images/columbia_logo.png" alt="Columbia" width="24"/> Columbia University (2017–2019)
+### <img src="/images/columbia_logo.png" alt="Columbia" width="24"/> Columbia University (2017–2019)
 - **M.S. in Earth and Environmental Engineering**
 
-### <img src="/assets/images/cugb_logo.png" alt="CUGB" width="24"/> China University of Geosciences (Beijing) (2012–2016)
+### <img src="/images/cugb_logo.png" alt="CUGB" width="24"/> China University of Geosciences (Beijing) (2012–2016)
 - **B.S. in Marine Sciences**  
 - **B.B.A. in Business Administration**
 
@@ -50,8 +50,7 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 ## 🔬 Research Experience
 
 **Visiting Student Researcher**  
-*University of Illinois Urbana-Champaign (May 2025–Present)*  
-▪ Dr. Ximing Cai’s Lab
+*Dr. Ximing Cai’s Lab, University of Illinois Urbana-Champaign (May 2025–Present)* 
 
 **Research Intern**  
 *Spatial Data Lab, Harvard University (Apr 2025–Present)*
@@ -82,3 +81,14 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 **Teaching Assistant**  
 *Michigan State University – Department of Geography*  
 ▪ Sep 2020–Apr 2021
+
+## Leadership & Service Experience
+
+* ***Environmental, Social, and Governance Analyst*** (2024.11 - Present)  
+  ▪ Penn Quakers Venture Club, University of Pennsylvania
+
+* ***Admission Ambassador*** (2024.09 - Present)  
+  ▪ Computer and Information Technology Program, University of Pennsylvania
+
+* ***Student Representative on Dean's Student Advisory Council*** (2023.11 - 2024.08)  
+  ▪ College of Social Science, Michigan State University
