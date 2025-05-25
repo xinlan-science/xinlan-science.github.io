@@ -45,18 +45,18 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 ## 🎓 Education
 
 ### Michigan State University (2020–2025)
-- Ph.D. in Geography, Environment, and Spatial Sciences
-- Ph.D. in Environmental Science and Policy *(Dual Majors)*
+* Ph.D. in Geography, Environment, and Spatial Sciences
+* Ph.D. in Environmental Science and Policy *(Dual Majors)*
 
 ### University of Pennsylvania (2020–2024)
-- M.S. in Computer and Information Technology
+* M.S. in Computer and Information Technology
 
 ### Columbia University (2017–2019)
-- M.S. in Earth and Environmental Engineering
+* M.S. in Earth and Environmental Engineering
 
 ### China University of Geosciences (Beijing) (2012–2016)
-- B.S. in Marine Sciences
-- B.B.A. in Business Administration
+* B.S. in Marine Sciences
+* B.B.A. in Business Administration
 
 ## 🔬 Research Experience
 
