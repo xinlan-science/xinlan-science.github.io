@@ -76,9 +76,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **Research Assistant** (Sep 2021–Present)  
   [Hydroclimatology Research Group](https://geo.msu.edu/research/research-groups/hydroclimatology.html), [Michigan State University](https://msu.edu/)
 
-* **Research Assistant** (May 2019–Feb 2020)  
-  [Center for Advanced Materials for Energy and Environment](https://www.seas.columbia.edu/), [Columbia University](https://www.columbia.edu/)
-
 * **Research Assistant** (Sep 2018–May 2019)  
   [Columbia Water Center](http://water.columbia.edu/), [Columbia University](https://www.columbia.edu/)
 
