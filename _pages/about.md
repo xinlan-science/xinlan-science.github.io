@@ -26,11 +26,11 @@ hr {
 }
 
 ul li {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.1em;
 }
 
 ol li {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.1em;
 }
 </style>
 
@@ -67,48 +67,48 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 🔬 Research Experience
 
-### Visiting Researcher (May 2025–Present)  
-* Dr. Ximing Cai's Lab, <u>University of Illinois Urbana-Champaign</u>
+* **Visiting Researcher** (May 2025–Present)  
+  * Dr. Ximing Cai's Lab, <u>University of Illinois Urbana-Champaign</u>
 
-### Research Intern (Apr 2025–Present)  
-* Spatial Data Lab, <u>Harvard University</u>
+* **Research Intern** (Apr 2025–Present)  
+  * Spatial Data Lab, <u>Harvard University</u>
 
-### Research Assistant (Sep 2021–Present)  
-* Hydroclimatology Research Group, <u>Michigan State University</u>
+* **Research Assistant** (Sep 2021–Present)  
+  * Hydroclimatology Research Group, <u>Michigan State University</u>
 
-### Research Assistant (May 2019–Feb 2020)  
-* Center for Advanced Materials for Energy and Environment, <u>Columbia University</u>
+* **Research Assistant** (May 2019–Feb 2020)  
+  * Center for Advanced Materials for Energy and Environment, <u>Columbia University</u>
 
-### Research Assistant (Sep 2018–May 2019)  
-* Columbia Water Center, <u>Columbia University</u>
+* **Research Assistant** (Sep 2018–May 2019)  
+  * Columbia Water Center, <u>Columbia University</u>
 
 ## 📚 Teaching Experience
 
-### Instructor (May–Jun 2025; May–Aug 2021)  
-* [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), <u>Michigan State University</u>
+* **Instructor** (May–Jun 2025; May–Aug 2021)  
+  * [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), <u>Michigan State University</u>
 
-### Instructor (Sep–Dec 2022)  
-* [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), <u>Michigan State University</u>
+* **Instructor** (Sep–Dec 2022)  
+  * [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), <u>Michigan State University</u>
 
-### Teaching Assistant (Jan–Dec 2024)  
-* [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), <u>University of Pennsylvania</u> 
+* **Teaching Assistant** (Jan–Dec 2024)  
+  * [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), <u>University of Pennsylvania</u>
 
-### Teaching Assistant (Jan–Apr 2021)  
-* [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx), <u>Michigan State University</u>
+* **Teaching Assistant** (Jan–Apr 2021)  
+  * [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx), <u>Michigan State University</u>
 
-### Teaching Assistant (Sep–Dec 2020; Jan–Apr 2021)  
-* [ISS 315 Global Diversity and Interdependence](https://integrativestudies.msu.edu/iss/courses.html), <u>Michigan State University</u>
-  
-### Teaching Assistant (Sep–Dec 2020)  
-* [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), <u>Michigan State University</u>
+* **Teaching Assistant** (Sep–Dec 2020; Jan–Apr 2021)  
+  * [ISS 315 Global Diversity and Interdependence](https://integrativestudies.msu.edu/iss/courses.html), <u>Michigan State University</u>
+
+* **Teaching Assistant** (Sep–Dec 2020)  
+  * [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), <u>Michigan State University</u>
 
 ## 🤝 Leadership & Service Experience
 
-### Environmental, Social, and Governance Analyst (Nov 2024–Present)  
-* Penn Quakers Venture Club, <u>University of Pennsylvania</u>
+* **Environmental, Social, and Governance Analyst** (Nov 2024–Present)  
+  * Penn Quakers Venture Club, <u>University of Pennsylvania</u>
 
-### Admission Ambassador (Sep 2024–Present)  
-* Computer and Information Technology Program, <u>University of Pennsylvania</u>
+* **Admission Ambassador** (Sep 2024–Present)  
+  * Computer and Information Technology Program, <u>University of Pennsylvania</u>
 
-### Student Representative on Dean's Student Advisory Council (Nov 2023–Aug 2024)  
-* College of Social Science, <u>Michigan State University</u>
+* **Student Representative on Dean's Student Advisory Council** (Nov 2023–Aug 2024)  
+  * College of Social Science, <u>Michigan State University</u>
