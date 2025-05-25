@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Geography, Environment, and Spatial Sciences at Michigan State University. My research focuses on the intersection of water resources and machine learning, with particular interests in hydrological modeling and climate change impact assessment.
+As a hydrologist, I am at the forefront of tackling the global challenge of water scarcity by employing a blend of state-of-the-art hydrological models, remote sensing technologies, and machine learning. My work is rooted in a deep understanding of water systems and is driven by a passion for developing sustainable water management and conservation solutions.
 
 ## Research Interests
 
@@ -18,26 +18,26 @@ I am a PhD candidate in the Department of Geography, Environment, and Spatial Sc
 
 ## Education
 
-* **PhD in Geography** (In Progress)  
+* **PhD in Geography, Environment, and Spatial Sciences** (2020 - 2025)  
   Michigan State University, East Lansing, MI
   
-* **[Your Previous Degree]**  
-  [University Name], [Year]
+* **PhD in Environmental Science and Policy** (Dual Majors, 2020 - 2025)  
+  Michigan State University, East Lansing, MI
+
+* **Master of Science in Computer and Information Technology** (2020 - 2024)  
+  University of Pennsylvania, Philadelphia, PA
+
+* **Master of Science in Earth and Environmental Engineering** (2017 - 2019)  
+  Columbia University, New York, NY
+
+* **Bachelor of Science in Marine Sciences** (2012 - 2016)  
+  China University of Geosciences (Beijing), Beijing, China
+
+* **Bachelor of Business Administration** (2014 - 2016)  
+  China University of Geosciences (Beijing), Beijing, China
 
 ## Research Experience
 
 * **Graduate Research Assistant** (Present)  
   Michigan State University  
   Supervisor: [Advisor Name]
-
-## Skills
-
-* **Programming**: Python, R, MATLAB
-* **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
-* **Hydrological Modeling**: [Relevant software/tools]
-* **Data Analysis**: Statistical analysis, time series analysis
-* **GIS**: ArcGIS, QGIS, Google Earth Engine
-
-## Contact
-
-Feel free to reach out to me at [lanxin1@msu.edu](mailto:lanxin1@msu.edu) or connect with me on [Google Scholar]({{site.author.googlescholar}}).
