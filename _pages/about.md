@@ -67,7 +67,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 ## 🔬 Research Experience
 
 * **Visiting Researcher** (May 2025–Present)  
-  [Dr. Ximing Cai's Lab](https://cee.illinois.edu/directory/profile/xcai), University of Illinois Urbana-Champaign
+  [Dr. Ximing Cai's Lab](https://cee.illinois.edu/directory/profile/xmcai), University of Illinois Urbana-Champaign
 
 * **Research Intern** (Apr 2025–Present)  
   [Spatial Data Lab](https://www.spatialdatalab.org/), Harvard University
