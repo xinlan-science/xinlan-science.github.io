@@ -35,7 +35,7 @@ I am a hydrologist and interdisciplinary researcher working at the intersection 
 
 I hold a Bachelor's degree in [Marine Sciences](https://sos.cugb.edu.cn/) from the [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), a Master's in [Earth and Environmental Engineering](https://www.eee.columbia.edu/) from [Columbia University](https://www.columbia.edu/), and a Master of Science in [Computer and Information Technology](https://online.seas.upenn.edu/degrees/mcit-online/) from the [University of Pennsylvania](https://www.upenn.edu/). This diverse academic background enables me to approach water challenges from both physical science and computational perspectives.
 
-Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://esp.msu.edu/), with a focus on climate variability and policy-relevant research.
+Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://espp.msu.edu/), with a focus on climate variability and policy-relevant research.
 
 ## 🌱 Research Interests
 
@@ -50,7 +50,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
   [Michigan State University](https://msu.edu/), [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/)
 
 * **Ph.D. in Environmental Science and Policy** (2020–2025)  
-  [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://esp.msu.edu/)
+  [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://espp.msu.edu/)
 
 * **M.S. in Computer and Information Technology** (2020–2024)  
   [University of Pennsylvania](https://www.upenn.edu/), [MCIT Program](https://online.seas.upenn.edu/degrees/mcit-online/)
