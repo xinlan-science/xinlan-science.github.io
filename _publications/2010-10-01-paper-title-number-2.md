@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Climate change, social environment, health, and urban inequality: developing a novel adaptive evaluation framework"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
