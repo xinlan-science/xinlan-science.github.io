@@ -9,7 +9,6 @@ redirect_from:
 
 <style>
 h2 {
-  color: #1e40af;
   margin-top: 2.5em;
 }
 
