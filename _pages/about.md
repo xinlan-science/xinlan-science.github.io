@@ -35,16 +35,12 @@ I hold a Bachelor's degree in [Marine Sciences](https://sos.cugb.edu.cn/) from t
 
 Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/) at [Michigan State University](https://msu.edu/), where I am advised by [Dr. Lifeng Luo](https://geo.msu.edu/directory/luo-lifeng.html). I am also completing a dual major in [Environmental Science and Policy](https://esp.msu.edu/), with a focus on climate variability and policy-relevant research.
 
----
-
 ## 🌱 Research Interests
 
 - Water resources modeling and management
 - Machine learning applications in hydrology
 - Climate change impacts on water systems
 - Hydrological forecasting and prediction
-
----
 
 ## 🎓 Education
 
@@ -62,8 +58,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 - B.S. in Marine Sciences
 - B.B.A. in Business Administration
 
----
-
 ## 🔬 Research Experience
 
 ### Visiting Researcher (May 2025–Present)  
@@ -80,8 +74,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ### Research Assistant (Sep 2018–May 2019)  
 *Columbia Water Center, Columbia University*
-
----
 
 ## 📚 Teaching Experience
 
@@ -102,8 +94,6 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
   
 ### Teaching Assistant (Sep–Dec 2020)  
 *GEO 203 Introduction to Meteorology, Michigan State University*  
-
----
 
 ## 🤝 Leadership & Service Experience
 
