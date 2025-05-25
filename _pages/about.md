@@ -12,16 +12,23 @@ h2 {
   margin-top: 1.5em;
 }
 
+/* Custom <hr> for manual sections */
 hr {
   border: none;
   height: 1px;
-  background-color: #111 !important;  /* force black line in light mode */
+  background-color: #111 !important;
   margin: 1.5em 0;
 }
 
+/* Remove the first HR after YAML front matter */
+hr:first-of-type {
+  display: none !important;
+}
+
+/* Dark mode styling */
 @media (prefers-color-scheme: dark) {
   hr {
-    background-color: #fff !important;  /* force white line in dark mode */
+    background-color: #fff !important;
   }
 }
 
@@ -42,9 +49,9 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 
 ## 🌱 Research Interests
 
-- Water resources modeling and management
-- Machine learning applications in hydrology
-- Climate change impacts on water systems
+- Water resources modeling and management  
+- Machine learning applications in hydrology  
+- Climate change impacts on water systems  
 - Hydrological forecasting and prediction
 
 <hr />
