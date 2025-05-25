@@ -61,7 +61,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **B.S. in Marine Sciences** (2012–2016)  
   [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), [School of Ocean Sciences](https://sos.cugb.edu.cn/)
 
-* **B.B.A. in Business Administration** (2012–2016)  
+* **B.B.A. in Business Administration** (2014–2016)  
   [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), [School of Economics and Management](https://sem.cugb.edu.cn/szdw/hjxjysjs/)
 
 ## 🔬 Research Experience
