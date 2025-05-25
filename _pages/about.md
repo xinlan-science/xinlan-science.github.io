@@ -31,17 +31,17 @@ As a hydrologist, I tackle the global challenge of water scarcity by integrating
 
 ## 🎓 Education
 
-### 🟢 Michigan State University (2020–2025)
+### <img src="/assets/images/msu_logo.png" alt="MSU" width="24"/> Michigan State University (2020–2025)
 - **Ph.D. in GEOGRAPHY, ENVIRONMENT, AND SPATIAL SCIENCES**  
 - **Ph.D. in Environmental Science and Policy** *(Dual Majors)*
 
-### 🟦 University of Pennsylvania (2020–2024)
+### <img src="/assets/images/upenn_logo.png" alt="UPenn" width="24"/> University of Pennsylvania (2020–2024)
 - **M.S. in Computer and Information Technology**
 
-### 🟨 Columbia University (2017–2019)
+### <img src="/assets/images/columbia_logo.png" alt="Columbia" width="24"/> Columbia University (2017–2019)
 - **M.S. in Earth and Environmental Engineering**
 
-### 🇨🇳 China University of Geosciences (Beijing) (2012–2016)
+### <img src="/assets/images/cugb_logo.png" alt="CUGB" width="24"/> China University of Geosciences (Beijing) (2012–2016)
 - **B.S. in Marine Sciences**  
 - **B.B.A. in Business Administration**
 
