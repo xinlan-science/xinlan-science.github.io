@@ -9,14 +9,14 @@ redirect_from:
 
 <style>
 h2 {
-  margin-top: 2.5em;
+  margin-top: 1.5em;
 }
 
 hr {
   border: none;
   height: 1px;
   background-color: #d1d5db;
-  margin: 2.5em 0 1.5em 0;
+  margin: 1.5em 0 1.5em 0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -26,11 +26,11 @@ hr {
 }
 
 ul li {
-  margin-bottom: 0.05em;
+  margin-bottom: 0.15em;
 }
 
 ol li {
-  margin-bottom: 0.05em;
+  margin-bottom: 0.15em;
 }
 </style>
 
