@@ -10,13 +10,14 @@ redirect_from:
 <style>
 h2 {
   color: #1e40af;
+  margin-top: 1em;
 }
 
 hr {
   border: none;
   height: 1px;
   background-color: #e5e7eb;
-  margin: 2.5em 0;
+  margin: 2.5em 0 1.5em 0;
 }
 
 @media (prefers-color-scheme: dark) {
