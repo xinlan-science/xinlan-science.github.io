@@ -49,7 +49,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 * **Ph.D. in Geography, Environment, and Spatial Sciences** (2020–2025)  
   [Michigan State University](https://msu.edu/), [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/)
 
-* **Ph.D. in Environmental Science and Policy** (2020–2025)  
+* **Ph.D. (Dual Major) in Environmental Science and Policy** (2020–2025) 
   [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://espp.msu.edu/)
 
 * **M.S. in Computer and Information Technology** (2020–2024)  
