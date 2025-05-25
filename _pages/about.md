@@ -31,7 +31,7 @@ hr {
 
 ## 👋 About Me
 
-I am a hydrologist and interdisciplinary researcher working at the intersection of water resources, hydrology, remote sensing, machine learning, and coupled human-natural systems. My work integrates advanced hydrological modeling and data-driven methods to address the global challenge of water scarcity, with the goal of supporting resilient and sustainable water management strategies.
+I am a hydrologist and interdisciplinary researcher working at the intersection of [water resources](https://en.wikipedia.org/wiki/Water_resources), [hydrology](https://en.wikipedia.org/wiki/Hydrology), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing), [machine learning](https://en.wikipedia.org/wiki/Machine_learning), and [coupled human–natural systems](https://en.wikipedia.org/wiki/Coupled_human_and_natural_systems). My work integrates advanced hydrological modeling and data-driven methods to address the global challenge of water scarcity, with the goal of supporting resilient and sustainable water management strategies.
 
 I hold a Bachelor's degree in [Marine Sciences](https://sos.cugb.edu.cn/) from the [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), a Master's in [Earth and Environmental Engineering](https://www.eee.columbia.edu/) from [Columbia University](https://www.columbia.edu/), and a Master of Science in [Computer and Information Technology](https://online.seas.upenn.edu/degrees/mcit-online/) from the [University of Pennsylvania](https://www.upenn.edu/). This diverse academic background enables me to approach water challenges from both physical science and computational perspectives.
 
@@ -47,7 +47,7 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
 ## 🎓 Education
 
 * **Ph.D. in Geography, Environment, and Spatial Sciences** (2020–2025)  
-  [Michigan State University](https://msu.edu/), Department of [Geography, Environment, and Spatial Sciences](https://geo.msu.edu/)
+  [Michigan State University](https://msu.edu/), [Department of Geography, Environment, and Spatial Sciences](https://geo.msu.edu/)
 
 * **Ph.D. in Environmental Science and Policy** (2020–2025)  
   [Michigan State University](https://msu.edu/), [Environmental Science and Policy Program](https://esp.msu.edu/)
@@ -62,49 +62,49 @@ Currently, I am pursuing a Ph.D. in the [Department of Geography, Environment, a
   [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), [School of Ocean Sciences](https://sos.cugb.edu.cn/)
 
 * **B.B.A. in Business Administration** (2012–2016)  
-  [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/)
+  [China University of Geosciences (Beijing)](https://en.cugb.edu.cn/), [School of Economics and Management](https://sem.cugb.edu.cn/szdw/hjxjysjs/)
 
 ## 🔬 Research Experience
 
 * **Visiting Researcher** (May 2025–Present)  
-  [Dr. Ximing Cai's Lab](https://cee.illinois.edu/directory/profile/xcai), [University of Illinois Urbana-Champaign](https://illinois.edu/)
+  [Dr. Ximing Cai's Lab](https://cee.illinois.edu/directory/profile/xcai), University of Illinois Urbana-Champaign
 
 * **Research Intern** (Apr 2025–Present)  
-  [Spatial Data Lab](https://www.spatialdatalab.org/), [Harvard University](https://www.harvard.edu/)
+  [Spatial Data Lab](https://www.spatialdatalab.org/), Harvard University
 
 * **Research Assistant** (Sep 2021–Present)  
-  [Hydroclimatology Research Group](https://geo.msu.edu/research/research-groups/hydroclimatology.html), [Michigan State University](https://msu.edu/)
+  [Hydroclimatology Research Group](https://drought.geo.msu.edu/group.php), Michigan State University
 
 * **Research Assistant** (Sep 2018–May 2019)  
-  [Columbia Water Center](http://water.columbia.edu/), [Columbia University](https://www.columbia.edu/)
+  [Columbia Water Center](http://water.columbia.edu/), Columbia University
 
 ## 📚 Teaching Experience
 
 * **Instructor** (May–Jun 2025; May–Aug 2021)  
-  [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
+  [GEO 203V Introduction to Meteorology](https://geo.msu.edu/student-resources/courses/online-courses.html), Michigan State University
 
 * **Instructor** (Sep–Dec 2022)  
-  [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), [Michigan State University](https://msu.edu/)
+  [GEO 221Lv Introduction to Geographic Information Lab](https://geo.msu.edu/student-resources/courses/online-courses.html), Michigan State University
 
 * **Teaching Assistant** (Jan–Dec 2024)  
-  [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), [University of Pennsylvania](https://www.upenn.edu/)
+  [ESE 5410 Machine Learning for Data Science](https://online.seas.upenn.edu/courses/ese-5410-machine-learning-for-data-science/), University of Pennsylvania
 
 * **Teaching Assistant** (Jan–Apr 2021)  
-  [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx), [Michigan State University](https://msu.edu/)
+  [GEO 337 Geography of East Asia](https://reg.msu.edu/Courses/Search.aspx?CourseID=361853#Results), Michigan State University
 
 * **Teaching Assistant** (Sep–Dec 2020; Jan–Apr 2021)  
-  [ISS 315 Global Diversity and Interdependence](https://integrativestudies.msu.edu/iss/courses.html), [Michigan State University](https://msu.edu/)
+  [ISS 315 Global Diversity and Interdependence](https://reg.msu.edu/courses/Search.aspx?CourseID=368786#Results), Michigan State University
 
 * **Teaching Assistant** (Sep–Dec 2020)  
-  [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=GEO&CourseNumber=203&Submit1=View), [Michigan State University](https://msu.edu/)
+  [GEO 203 Introduction to Meteorology](https://reg.msu.edu/Courses/Search.aspx?CourseID=361832#Results), Michigan State University
 
 ## 🤝 Leadership & Service Experience
 
 * **Environmental, Social, and Governance Analyst** (Nov 2024–Present)  
-  Penn Quakers Venture Club, [University of Pennsylvania](https://www.upenn.edu/)
+  [Penn Quakers Venture Club](https://www.linkedin.com/company/penn-quakers-venture-club), University of Pennsylvania
 
 * **Admission Ambassador** (Sep 2024–Present)  
-  Computer and Information Technology Program, [University of Pennsylvania](https://www.upenn.edu/)
+  [Computer and Information Technology Program](https://online.seas.upenn.edu/degrees/mcit-online/), University of Pennsylvania
 
 * **Student Representative on Dean's Student Advisory Council** (Nov 2023–Aug 2024)  
-  College of Social Science, [Michigan State University](https://msu.edu/)
+  [College of Social Science](https://socialscience.msu.edu/), Michigan State University
