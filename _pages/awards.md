@@ -12,7 +12,7 @@ h2 {
 }
 
 h3 {
- margin-top: 1em;
+ margin-top: 1.2em;
  margin-bottom: 1.5em;
  font-weight: 500;
 }
