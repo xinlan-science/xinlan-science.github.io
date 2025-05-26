@@ -7,12 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale: "en-US"
-title: "Xin Lan"
-title_separator: "-"
-description: "Ph.D. Candidate at Michigan State University specializing in Geographic Information Science"
-url: https://xinlan-science.github.io
-repository: "xinlan-science/xinlan-science.github.io"
+locale                   : "en-US"
+title                    : "Xin Lan | Ph.D. Candidate at Michigan State University"
+title_separator          : "-"
+url                      : https://xinlan-science.github.io
+repository               : "xinlan-science/xinlan-science.github.io"
 
 # Site Author
 author:
