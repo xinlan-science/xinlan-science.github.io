@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-  font-size: 0.8em; 
+  font-size: 0.7em; 
 }
 
 h2::after {
