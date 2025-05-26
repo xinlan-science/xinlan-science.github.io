@@ -78,7 +78,7 @@ Selected awards and grants are listed on this page, organized by institution.
 
 ▪ Second Prize for the Social Practice, 2013
 
-### National Competitions
+### State Oceanic Administration (SOA), China
 ▪ First Prize, 7th National Marine Knowledge Competition (Top 10 in China), 2014
 
 ▪ Third Prize, 6th National Marine Knowledge Competition, 2013
