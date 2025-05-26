@@ -34,7 +34,7 @@ hr {
 }
 </style>
 
-Selected awards and grants are listed on this page, organized by institution.
+Selected grants and awards are listed on this page, organized by institution.
 
 ## Grants and Funds
 ### <strong>Michigan State University</strong>
