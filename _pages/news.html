@@ -9,6 +9,22 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.news reversed %}
-  {% include archive-single.html %}
+{% assign news_items = site.news | sort: 'date' | reverse %}
+
+{% for item in news_items %}
+  <div class="list__item">
+    <article class="archive__item" style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+      <div style="flex-shrink: 0; width: 120px; margin-right: 1.5em;">
+        <span style="font-size: 0.8em; color: #666; font-weight: 500;">{{ item.date | date: "%b %d, %Y" }}</span>
+      </div>
+      <div style="flex: 1;">
+        <h2 class="archive__item-title" style="margin: 0 0 0.5em 0;">{{ item.title }}</h2>
+        {% if item.excerpt %}
+          <div class="archive__item-excerpt" style="margin: 0;">
+            <p style="margin: 0;">{{ item.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+          </div>
+        {% endif %}
+      </div>
+    </article>
+  </div>
 {% endfor %}
