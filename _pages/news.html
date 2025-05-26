@@ -26,7 +26,7 @@ author_profile: true
         {% if item.excerpt %}
           <div class="archive__item-excerpt" style="margin: 0;">
             {% if item.link %}
-              {% assign link_tag = '<a href="' | append: item.link | append: '" target="_blank" style="color: #0066cc; text-decoration: none; font-weight: 500;">[link]</a>' %}
+              {% assign link_tag = '<a href="' | append: item.link | append: '" target="_blank" class="news-link">[link]</a>' %}
               {% assign excerpt_with_link = item.excerpt | replace: '([link])', link_tag %}
               <p style="margin: 0;">{{ excerpt_with_link | markdownify }}</p>
             {% else %}
@@ -55,5 +55,15 @@ author_profile: true
   opacity: 0.7;
   font-weight: 500;
   color: #999;
+}
+
+.news-link {
+  color: #2a7ae2;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.news-link:hover {
+  text-decoration: underline;
 }
 </style>
