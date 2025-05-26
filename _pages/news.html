@@ -21,7 +21,8 @@ author_profile: true
         <h2 class="archive__item-title news-title" style="margin: 0 0 0.5em 0;">{{ item.title }}</h2>
         {% if item.excerpt %}
           <div class="archive__item-excerpt" style="margin: 0;">
-            <p style="margin: 0;">{{ item.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+            {% assign excerpt_with_link = item.excerpt | replace: '【link】', '<a href="' | append: item.link | append: '" target="_blank" style="color: #0066cc; text-decoration: none; font-weight: 500;">【link】</a>' %}
+            <p style="margin: 0;">{{ excerpt_with_link }}</p>
           </div>
         {% endif %}
       </div>
