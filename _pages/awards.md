@@ -63,7 +63,7 @@ Selected grants and awards are listed on this page, organized by institution.
 * <a href="https://icer.msu.edu/News/2023-Cloud-Computing-Fellows-Embark-on-Journey-of-Innovation">[news]</a> Cloud Computing Fellowship, Institute of Cyber-Enabled Research, 2023
 
 ### <strong>Institute of Physics (IOP)</strong>
-* <a href="https://accreditations.ioppublishing.org/92f2973e-9b10-4da6-8c4f-86a2dcfd9d04#acc.mP6shGMb">[link]</a> IOP Trusted Reviewer 2023
+* <a href="https://accreditations.ioppublishing.org/92f2973e-9b10-4da6-8c4f-86a2dcfd9d04#acc.mP6shGMb">[news]</a> IOP Trusted Reviewer 2023
 
 ### <strong>China University of Geosciences (Beijing)</strong>
 * First Prize, 5th Marine Knowledge Competition (Top 1), 2014
