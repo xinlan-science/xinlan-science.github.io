@@ -117,7 +117,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   news:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # Defaults
