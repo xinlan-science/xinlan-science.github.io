@@ -36,7 +36,7 @@ hr {
 
 Selected grants and awards are listed on this page, organized by institution.
 
-## Grants and Funds
+## Grants & Funds
 ### <strong>Michigan State University</strong>
 * <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a> Summer Research Fellowship, Environmental Science and Policy Program, 2025
 
