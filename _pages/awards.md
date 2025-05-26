@@ -6,23 +6,33 @@ author_profile: true
 
 <style>
 h2 {
-  margin-top: 3.5em;     /* more spacing between sections */
-  margin-bottom: 1.5em;
-  font-weight: 600;
+ margin-top: 3.5em;     /* more spacing between sections */
+ margin-bottom: 0.6em;
+ font-weight: 600;
+}
+
+h3 {
+ margin-top: 2em;
+ margin-bottom: 1.5em;
+ font-weight: 500;
 }
 
 /* Remove any default underline or after-pseudo content */
 h2::after {
-  display: none !important;
+ display: none !important;
+}
+
+h3::after {
+ display: none !important;
 }
 
 ul li, ol li {
-  margin-bottom: 0.25em;
+ margin-bottom: 0.25em;
 }
 
 /* Completely hide any HR if accidentally left in */
 hr {
-  display: none !important;
+ display: none !important;
 }
 </style>
 
