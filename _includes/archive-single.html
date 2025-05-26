@@ -33,10 +33,10 @@
         <p>{{ post.citation }}</p>
       {% endif %}
     {% elsif post.collection == 'talks' %}
-      {% if post.talkurl %}
-        <p><a href="{{ post.talkurl }}">[link]</a> {{ post.title }}. {{ post.date | date: "%B %d, %Y" }}, {{ post.venue }}, {{ post.location }}.</p>
-      {% else %}
-        <p>{{ post.title }}. {{ post.date | date: "%B %d, %Y" }}, {{ post.venue }}, {{ post.location }}.</p>
+      {% if post.citation and post.talkurl %}
+        <p><a href="{{ post.talkurl }}">[link]</a> {{ post.citation }}</p>
+      {% elsif post.citation %}
+        <p>{{ post.citation }}</p>
       {% endif %}
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
