@@ -1,6 +1,6 @@
 ---
 permalink: /awards/
-title: "Grants and Awards"
+title: "Grants & Awards"
 author_profile: true
 ---
 
