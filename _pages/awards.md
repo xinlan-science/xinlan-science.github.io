@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
 h2 {
- margin-top: 3.5em;     
+ margin-top: 2em;     
  margin-bottom: 0.6em;
  font-weight: 600;
 }
