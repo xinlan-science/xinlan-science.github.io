@@ -1,5 +1,7 @@
 ---
-title: "New Paper Published"
-date: 2024-12-15
-excerpt: "Our paper on computer vision has been accepted to CVPR 2024"
+title: "Published a paper as co-author"
+date: 2025-05-15
+excerpt: "Our paper 'Climate change, social environment, health, and urban inequality: developing a novel adaptive evaluation framework' has been accepted to Sustainable Cities and Society"
 ---
+
+Our paper "Climate change, social environment, health, and urban inequality: developing a novel adaptive evaluation framework" has been accepted to Sustainable Cities and Society. [Read more](https://www.sciencedirect.com/science/article/abs/pii/S2210670725003191)

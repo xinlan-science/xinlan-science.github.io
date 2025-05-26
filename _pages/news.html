@@ -15,7 +15,7 @@ author_profile: true
   <div class="list__item">
     <article class="archive__item" style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
       <div style="flex-shrink: 0; width: 120px; margin-right: 1.5em;">
-        <span class="archive__item-date">{{ item.date | date: "%b %d, %Y" }}</span>
+        <span style="font-size: 0.8em; opacity: 0.6; font-weight: 500;">{{ item.date | date: "%b %d, %Y" }}</span>
       </div>
       <div style="flex: 1;">
         <h2 class="archive__item-title news-title" style="margin: 0 0 0.5em 0;">{{ item.title }}</h2>
@@ -38,17 +38,5 @@ author_profile: true
 .news-title:hover {
   text-decoration: none !important;
   border-bottom: none !important;
-}
-
-.archive__item-date {
-  font-size: 0.8em;
-  color: var(--muted-text-color, #999);
-  font-weight: 500;
-}
-
-@media (prefers-color-scheme: dark) {
-  .archive__item-date {
-    color: var(--muted-text-color, #aaa);
-  }
 }
 </style>
