@@ -58,7 +58,7 @@ Selected grants and awards are listed on this page, organized by institution.
 
 ## Honors and Awards
 ### <strong>Michigan State University</strong>
-* <a href="https://geo.msu.edu/news-events/news/2024-05-20.html">[news]</a> Owen Gregg Global Climate Change Research Award, Department of Geography, 2024
+* <a href="https://geo.msu.edu/news-events/news/2024-05-20.html">[news]</a> Owen Gregg Global Climate Change Research Award, Department of Department of Geography, Environment, and Spatial Sciences, 2024
 
 * <a href="https://espp.msu.edu/resources/publication-awards.html">[news]</a> Outstanding Student Publication Award, Environmental Science and Policy Program, 2024
 
