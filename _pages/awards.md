@@ -42,17 +42,17 @@ Selected awards and grants are listed on this page, organized by institution.
 
 ## Grants and Funds
 ### <strong>Michigan State University</strong>
-▪ Summer Research Fellowship, Environmental Science and Policy Program, 2025 <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a>
+* Summer Research Fellowship, Environmental Science and Policy Program, 2025 <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a>
 
-▪ Kellogg Biological Station Long-term Ecological Research Fellowship 2024 <a href="https://lter.kbs.msu.edu/get-involved/lter-graduate-fellowships/">[news]</a>
+* Kellogg Biological Station Long-term Ecological Research Fellowship 2024 <a href="https://lter.kbs.msu.edu/get-involved/lter-graduate-fellowships/">[news]</a>
 
-▪ Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2024
+* Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2024
 
-▪ Competitive Research Grant, Environmental Science and Policy Program, 2023 <a href="https://espp.msu.edu/resources/competitive-research-grant.html">[news]</a>
+* Competitive Research Grant, Environmental Science and Policy Program, 2023 <a href="https://espp.msu.edu/resources/competitive-research-grant.html">[news]</a>
 
-▪ Council of Graduate Students Conference Award, 2022
+* Council of Graduate Students Conference Award, 2022
 
-▪ Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2025 
+* Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2025 
 
 ### <strong>China University of Geosciences (Beijing)</strong>
 ▪ Undergraduate Student Innovation and Entrepreneurship Training 2015
