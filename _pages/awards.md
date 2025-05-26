@@ -6,8 +6,8 @@ author_profile: true
 
 <style>
 h2 {
-  margin-top: 4em;     /* more spacing between sections */
-  margin-bottom: 0.6em;
+  margin-top: 3.5em;     /* more spacing between sections */
+  margin-bottom: 1.5em;
   font-weight: 600;
 }
 
