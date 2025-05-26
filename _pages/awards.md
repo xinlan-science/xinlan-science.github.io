@@ -17,10 +17,6 @@ h3 {
  font-weight: 500;
 }
 
-p {
-  font-size: 0.7em; 
-}
-
 h2::after {
  display: none !important;
 }
