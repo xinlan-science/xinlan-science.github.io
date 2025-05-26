@@ -9,9 +9,17 @@ redirect_from:
 
 <style>
 h1 {
-  margin-bottom: 0.8em;
+  margin-bottom: 0.4em !important;
 }
-  
+
+.page__title {
+  margin-bottom: 0.4em !important;
+}
+
+.page-header h1 {
+  margin-bottom: 0.4em !important;
+}
+
 h2 {
   margin-top: 3em;     /* more spacing between sections */
   margin-bottom: 0.6em;
