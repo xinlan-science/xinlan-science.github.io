@@ -65,10 +65,10 @@ Selected grants and awards are listed on this page, organized by institution.
 * <a href="https://icer.msu.edu/News/2023-Cloud-Computing-Fellows-Embark-on-Journey-of-Innovation">[news]</a> Cloud Computing Fellowship, Institute of Cyber-Enabled Research, 2023
 
 ### <strong>Institute of Physics (IOP)</strong>
-* Trusted Reviewer 2023
+* IOP Trusted Reviewer 2023
 
 ### <strong>China University of Geosciences (Beijing)</strong>
-* First Prize, 5th Marine Knowledge Competition (Top 1 in CUGB), 2014
+* First Prize, 5th Marine Knowledge Competition (Top 1), 2014
 
 * Social Practice Model, 2014
 
@@ -76,13 +76,13 @@ Selected grants and awards are listed on this page, organized by institution.
 
 * Second Prize for the Social Practice, 2013
 
-### <strong>State Oceanic Administration (SOA), China</strong>
-* First Prize, 7th National Marine Knowledge Competition (Top 10 in China), 2014
+### <strong>State Oceanic Administration, China</strong>
+* First Prize, 7th National Marine Knowledge Competition (Top 10), 2014
 
 * Third Prize, 6th National Marine Knowledge Competition, 2013
 
 ### <strong>Beijing Municipal</strong>
-* First Prize, Beijing Marine Knowledge Competition (Top 1 in Beijing), 2014
+* First Prize, Beijing Marine Knowledge Competition (Top 1), 2014
 
 * Excellent Social Practice Result Prize, 2013
 
