@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
 h2 {
- margin-top: 2em;     
+ margin-top: 2.5em;     
  margin-bottom: 0.6em;
  font-weight: 600;
 }
@@ -36,7 +36,7 @@ hr {
 
 Selected grants and awards are listed on this page, organized by institution.
 
-## Grants & Funds
+## 💰 Grants & Funds
 ### <strong>Michigan State University</strong>
 * <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a> Summer Research Fellowship ($900), Environmental Science and Policy Program, 2025
 
@@ -54,7 +54,7 @@ Selected grants and awards are listed on this page, organized by institution.
 ### <strong>Beijing Municipal Education Commission</strong>
 * Undergraduate Student Innovation and Entrepreneurship Training (￥10000), 2014
 
-## Honors and Awards
+## 🥇 Honors & Awards
 ### <strong>Michigan State University</strong>
 * <a href="https://geo.msu.edu/news-events/news/2024-05-20.html">[news]</a> Owen Gregg Global Climate Change Research Award, Department of Department of Geography, Environment, and Spatial Sciences, 2024
 
