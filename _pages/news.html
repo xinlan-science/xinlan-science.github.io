@@ -15,7 +15,7 @@ author_profile: true
   <div class="list__item">
     <article class="archive__item" style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
       <div style="flex-shrink: 0; width: 120px; margin-right: 1.5em;">
-        <span style="font-size: 0.8em; opacity: 0.6; font-weight: 500;">
+        <span class="news-date">
           {{ item.date | date: "%b %d, %Y" }}
         </span>
       </div>
@@ -28,9 +28,9 @@ author_profile: true
             {% if item.link %}
               {% assign link_tag = '<a href="' | append: item.link | append: '" target="_blank" style="color: #0066cc; text-decoration: none; font-weight: 500;">[link]</a>' %}
               {% assign excerpt_with_link = item.excerpt | replace: '([link])', link_tag %}
-              <p style="margin: 0;">{{ excerpt_with_link }}</p>
+              <p style="margin: 0;">{{ excerpt_with_link | markdownify }}</p>
             {% else %}
-              <p style="margin: 0;">{{ item.excerpt }}</p>
+              <p style="margin: 0;">{{ item.excerpt | markdownify }}</p>
             {% endif %}
           </div>
         {% endif %}
@@ -44,8 +44,16 @@ author_profile: true
   text-decoration: none !important;
   border-bottom: none !important;
 }
+
 .news-title:hover {
   text-decoration: none !important;
   border-bottom: none !important;
+}
+
+.news-date {
+  font-size: 0.8em;
+  opacity: 0.6;
+  font-weight: 500;
+  color: inherit; /* Inherit system color for dark/light mode compatibility */
 }
 </style>
