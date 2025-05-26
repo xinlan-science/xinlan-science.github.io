@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
 h2 {
- margin-top: 3.5em;     /* more spacing between sections */
+ margin-top: 3.5em;     
  margin-bottom: 0.6em;
  font-weight: 600;
 }
@@ -17,7 +17,10 @@ h3 {
  font-weight: 500;
 }
 
-/* Remove any default underline or after-pseudo content */
+p {
+  font-size: 0.9em; 
+}
+
 h2::after {
  display: none !important;
 }
@@ -30,7 +33,6 @@ ul li, ol li {
  margin-bottom: 0.25em;
 }
 
-/* Completely hide any HR if accidentally left in */
 hr {
  display: none !important;
 }
