@@ -26,64 +26,53 @@ hr {
 }
 </style>
 
-## Honors and Awards
-
-▪ Owen Gregg Global Climate Change Research Award ($1000) 2024 <a href="NEWS_URL_HERE">[news]</a>
-
-▪ ESPP Outstanding Student Publication Award ($500) 2024 <a href="NEWS_URL_HERE">[news]</a>
-
-▪ Institute of Physics (IOP) Trusted Reviewer 2023
-
-▪ Cloud Computing Fellowship, MSU 2023
-
-▪ Third-class Scholarship, CUGB 2015
-
-▪ First Prize, 7th National Marine Knowledge Competition (Top 10 in China) 2014
-
-▪ First Prize, Beijing Marine Knowledge Competition (Top 1 in Beijing) 2014
-
-▪ First Prize, 5th Marine Knowledge Competition, CUGB (Top 1 in CUGB) 2014
-
-▪ Third-class Scholarship, CUGB 2014
-
-▪ Social Practice Model, CUGB 2014
-
-▪ Third Prize, 6th National Marine Knowledge Competition 2013
-
-▪ Excellent Social Practice Result Prize, Beijing Communist Youth League 2013
-
-▪ Outstanding Individual in the Social Practice, CUGB 2013
-
-▪ Second Prize for the Social Practice, CUGB 2013
-
 ## Grants and Funds
+### Michigan State University
+▪ Summer Research Fellowship, Environmental Science and Policy Program, 2025 <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a>
 
-Travel and research grants so far reach **$22,470**.
+▪ Kellogg Biological Station Long-term Ecological Research Fellowship 2024 <a href="https://lter.kbs.msu.edu/get-involved/lter-graduate-fellowships/">[news]</a>
 
-▪ ESPP Summer Research Fellowship 2025
+▪ Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2024
 
-▪ Dr. Delia Koo Global Student Scholarship 2025 <a href="NEWS_URL_HERE">[news]</a>
+▪ Competitive Research Grant, Environmental Science and Policy Program, 2023 <a href="https://espp.msu.edu/resources/competitive-research-grant.html">[news]</a>
 
-▪ Travel Grant, MSU GEO 2024
+▪ Council of Graduate Students Conference Award, 2022
 
-▪ Kellogg Biological Station Long-term Ecological Research Fellowship 2024
+▪ Dr. Delia Koo Global Student Scholarship, Asian Studies Center, 2025 
 
-▪ Dr. Delia Koo Global Student Scholarship 2024
+### China University of Geosciences (Beijing)
+▪ Undergraduate Student Innovation and Entrepreneurship Training 2015
 
-▪ Travel Grant, MSU GEO 2023
+### Beijing Municipal Education Commission
+▪ Undergraduate Student Innovation and Entrepreneurship Training 2014
 
-▪ Competitive Research Grant, MSU ESPP 2023
+## Honors and Awards
+### Michigan State University
+▪ Owen Gregg Global Climate Change Research Award, Department of Geography, 2024 <a href="https://geo.msu.edu/news-events/news/2024-05-20.html">[news]</a>
 
-▪ Council of Graduate Students Conference Award, MSU 2022
+▪ Outstanding Student Publication Award, Environmental Science and Policy Program, 2024 <a href="https://espp.msu.edu/resources/publication-awards.html">[news]</a>
 
-▪ Travel Grant, MSU GEO 2022
+▪ Cloud Computing Fellowship, Institute of Cyber-Enabled Research, 2023 <a href="https://icer.msu.edu/News/2023-Cloud-Computing-Fellows-Embark-on-Journey-of-Innovation">[news]</a>
 
-▪ Travel Grant, MSU Graduate School 2021
+### Institute of Physics (IOP)
+▪ Trusted Reviewer 2023
 
-▪ Travel Grant, MSU GEO 2021
+### China University of Geosciences (Beijing)
+▪ First Prize, 5th Marine Knowledge Competition (Top 1 in CUGB), 2014
 
-▪ Publishing Grant, Coastal Zone Biogeological Process Innovation Practice Base (CUGB School of Ocean Sciences) 2016
+▪ Social Practice Model, 2014
 
-▪ University-level Undergraduate Student Innovation and Entrepreneurship Training, CUGB 2015
+▪ Outstanding Individual in the Social Practice, 2013
 
-▪ Municipal Undergraduate Student Innovation and Entrepreneurship Training, Beijing Municipal Education Commission 2014
+▪ Second Prize for the Social Practice, 2013
+
+### National Competitions
+▪ First Prize, 7th National Marine Knowledge Competition (Top 10 in China), 2014
+
+▪ Third Prize, 6th National Marine Knowledge Competition, 2013
+
+### Beijing Municipal
+▪ First Prize, Beijing Marine Knowledge Competition (Top 1 in Beijing), 2014
+
+▪ Excellent Social Practice Result Prize, 2013
+
