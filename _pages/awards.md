@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
 h2 {
-  margin-top: 3em;     /* more spacing between sections */
+  margin-top: 4em;     /* more spacing between sections */
   margin-bottom: 0.6em;
   font-weight: 600;
 }
@@ -17,7 +17,7 @@ h2::after {
 }
 
 ul li, ol li {
-  margin-bottom: 0.15em;
+  margin-bottom: 0.25em;
 }
 
 /* Completely hide any HR if accidentally left in */
@@ -25,6 +25,8 @@ hr {
   display: none !important;
 }
 </style>
+
+Selected awards and grants are listed on this page, organized by institution.
 
 ## Grants and Funds
 ### Michigan State University
