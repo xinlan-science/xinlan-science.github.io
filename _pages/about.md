@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 <style>
+h1 {
+  margin-bottom: 0.8em;
+}
+  
 h2 {
   margin-top: 3em;     /* more spacing between sections */
   margin-bottom: 0.6em;
