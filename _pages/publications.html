@@ -7,25 +7,35 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> and <a href="{{site.author.researchgate}}">ResearchGate</a> profiles.</div>
 {% endif %}
-
 {% include base_path %}
-
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+{% for category in site.publication_category  %}
+{% assign title_shown = false %}
+<!-- Group posts by year within each category -->
+{% assign category_posts = site.publications | where: "category", category[0] %}
+{% assign posts_by_year = category_posts | group_by_exp: "post", "post.date | default: post.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
+
+{% for year_group in posts_by_year %}
+  {% unless title_shown %}
+    <h2>{{ category[1].title }}</h2>
+    {% assign title_shown = true %}
+  {% endunless %}
+  
+  <h3>{{ year_group.name }}</h3>
+  {% assign year_posts = year_group.items | sort: "date" | reverse %}
+  {% for post in year_posts %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %}
+{% endfor %}
+{% else %}
+  <!-- Group all publications by year -->
+{% assign posts_by_year = site.publications | group_by_exp: "post", "post.date | default: post.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
+{% for year_group in posts_by_year %}
+<h2>{{ year_group.name }}</h2>
+{% assign year_posts = year_group.items | sort: "date" | reverse %}
+{% for post in year_posts %}
+{% include archive-single.html %}
+{% endfor %}
+{% endfor %}
 {% endif %}
