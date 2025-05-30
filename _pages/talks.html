@@ -29,7 +29,6 @@ hr {
  {% for category in site.talk_category %}
    {% assign title_shown = false %}
    
-   <!-- Group talks by year within each category -->
    {% assign category_talks = site.talks | where: "category", category[0] %}
    {% assign talks_by_year = category_talks | group_by_exp: "talk", "talk.date | default: talk.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
    
@@ -47,7 +46,7 @@ hr {
    {% endfor %}
  {% endfor %}
 {% else %}
- <!-- Group all talks by year -->
+
  {% assign talks_by_year = site.talks | group_by_exp: "talk", "talk.date | default: talk.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
  
  {% for year_group in talks_by_year %}
