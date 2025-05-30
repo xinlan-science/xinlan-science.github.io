@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
 h2 {
- margin-bottom: 0;
+margin-bottom: 0;
 }
 hr {
- margin-top: 0.7em;
- margin-bottom: 1em;
+margin-top: 0.7em;
+margin-bottom: 1em;
 }
 </style>
 
@@ -26,34 +26,34 @@ hr {
 {% include base_path %}
 
 {% if site.talk_category %}
- {% for category in site.talk_category %}
-   {% assign title_shown = false %}
-   
-   {% assign category_talks = site.talks | where: "category", category[0] %}
-   {% assign talks_by_year = category_talks | group_by_exp: "talk", "talk.date | default: talk.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
-   
-   {% for year_group in talks_by_year %}
-     {% unless title_shown %}
-       <h2>{{ category[1].title }}</h2><hr />
-       {% assign title_shown = true %}
-     {% endunless %}
-     
-     <h3>{{ year_group.name }}</h3>
-     {% assign year_talks = year_group.items | sort: "date" | reverse %}
-     {% for talk in year_talks %}
-       {% include archive-single.html %}
-     {% endfor %}
-   {% endfor %}
- {% endfor %}
+{% for category in site.talk_category %}
+  {% assign title_shown = false %}
+  
+  {% assign category_talks = site.talks | where: "category", category[0] %}
+  {% assign talks_by_year = category_talks | group_by_exp: "post", "post.date | default: post.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
+  
+  {% for year_group in talks_by_year %}
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    
+    <h3>{{ year_group.name }}</h3>
+    {% assign year_posts = year_group.items | sort: "date" | reverse %}
+    {% for post in year_posts %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
 {% else %}
 
- {% assign talks_by_year = site.talks | group_by_exp: "talk", "talk.date | default: talk.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
- 
- {% for year_group in talks_by_year %}
-   <h2>{{ year_group.name }}</h2><hr />
-   {% assign year_talks = year_group.items | sort: "date" | reverse %}
-   {% for talk in year_talks %}
-     {% include archive-single.html %}
-   {% endfor %}
- {% endfor %}
+{% assign talks_by_year = site.talks | group_by_exp: "post", "post.date | default: post.path | split: '/' | last | slice: 0, 4" | sort: "name" | reverse %}
+
+{% for year_group in talks_by_year %}
+  <h2>{{ year_group.name }}</h2><hr />
+  {% assign year_posts = year_group.items | sort: "date" | reverse %}
+  {% for post in year_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
 {% endif %}
