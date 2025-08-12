@@ -38,6 +38,8 @@ Selected grants and awards are listed on this page, organized by institution.
 
 ## 💰 Grants & Funds
 ### <strong>Michigan State University</strong>
+* Dissertation Completion Fellowship ($9000), College of Social Science, 2025
+
 * <a href="https://espp.msu.edu/resources/summer-research-fellowships.html">[news]</a> Summer Research Fellowship ($900), Environmental Science and Policy Program, 2025
 
 * <a href="https://lter.kbs.msu.edu/get-involved/lter-graduate-fellowships/">[news]</a> Kellogg Biological Station Long-term Ecological Research Fellowship ($7500), 2024
