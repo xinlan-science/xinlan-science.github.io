@@ -1,0 +1,43 @@
+- slug: lake-erie-habs
+  title: "Beyond nutrients: metacoupled multi-shock drivers of Lake Erie HAB extremes"
+  card_meta: "2026 – present · CIGLR / NOAA"
+  period: "Jun 2026 – present"
+  org: "Center for Systems Integration and Sustainability, Michigan State University · Cooperative Institute for Great Lakes Research, University of Michigan"
+  funding: "NOAA CIGLR Postdoctoral Fellowship ($89,082)"
+  role: "Principal Investigator · Advisor: Dr. Jianguo (Jack) Liu"
+  status: Active
+  status_key: active
+  icon: network
+  summary: "A physics-guided machine learning model that links in-lake, watershed, and distant climate and market drivers to cyanobacteria dynamics in western Lake Erie."
+  description: >-
+    Severe harmful algal blooms keep returning to western Lake Erie despite decades of phosphorus
+    reduction, which points to drivers beyond nutrient loading. This project organizes drivers with the
+    metacoupling framework: in-lake processes (intracoupling), nutrient transport from the Maumee River
+    watershed (pericoupling), and distant climate oscillations and global fertilizer markets
+    (telecoupling). It quantifies how much the distant drivers add to explaining cyanobacteria
+    dynamics, builds a physics-guided ensemble machine learning model that forecasts weekly
+    cyanobacteria concentrations at monitoring stations across the western basin, and uses scenario
+    analysis to find the climate and market conditions that amplify bloom severity.
+  tags: [HABs, Metacoupling, Physics-guided ML, Lake Erie]
+
+- slug: lake-temperature
+  title: "Process-guided ensemble deep learning for lake vertical temperature prediction"
+  card_meta: "Dissertation · J. Hydrology & JGR: MLC (in review)"
+  period: "Sep 2021 – Apr 2026"
+  org: "Hydroclimatology Research Group, Michigan State University"
+  funding: "Research Assistantship, Environmental Science and Policy Program, Michigan State University"
+  role: "Ph.D. Student · Advisor: Dr. Lifeng Luo"
+  status: Completed
+  status_key: completed
+  icon: chart
+  summary: "Three studies of vertical lake temperature: long-term observations, a process-guided ensemble deep learning model, and a regional application across Midwestern lakes."
+  description: >-
+    Water temperature regulates metabolic rates, nutrient cycling, and oxygen availability throughout
+    a lake's water column, and climate change is altering lake thermal structure. My dissertation
+    studied vertical lake temperature dynamics in three steps: an observational analysis of long-term
+    thermal change in Seneca Lake and its links to climate change and human activities; a
+    process-guided ensemble deep learning model that is pretrained on process-model simulations and
+    then fine-tuned with observations; and a regional application to lakes across the Midwestern
+    United States.
+  tags: [Lake temperature, Process-guided DL, Ensemble learning, Climate change]
+  outputs: [lan2023seneca, lan-jhydrol, lan-jgrmlc]

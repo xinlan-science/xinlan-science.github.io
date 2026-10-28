@@ -1,0 +1,85 @@
+---
+title: Research
+permalink: /research/
+description: "Physics-guided machine learning research by Xin Lan on lake temperature, harmful algal blooms, and metacoupling."
+intro: >-
+  I develop physics-guided machine learning to understand and predict how freshwater lakes respond to
+  climate change and human activities. My work combines deep learning with process-based lake models and
+  long-term observations, so that predictions stay physically consistent where measurements are sparse.
+  I apply these methods to lake thermal structure and harmful algal blooms, and I use the metacoupling
+  framework to bring in drivers that originate far beyond a lake's watershed.
+interests: [AI for Science, Machine learning, Limnology, Metacoupling, Telecoupling, Sustainability, Hydrology, Water resources, Harmful algal blooms]
+---
+<section class="block" id="interests">
+  <div class="container">
+    <h2 class="sub-title">Research interests</h2>
+    <div class="tags interest-tags">{% for t in page.interests %}<span class="tag lg">{{ t }}</span>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="block" id="projects">
+  <div class="container">
+    {% assign projects = site.data.projects %}
+    {% include section-head.html title="Leading projects" count=projects.size %}
+    {% for pr in projects %}
+    <article class="project" id="{{ pr.slug }}">
+      <div class="project-side">
+      <span class="glyph">{% include icons/{{ pr.icon }}.svg %}</span>
+      <dl class="project-meta">
+        {% if pr.period != "" %}<div><dt>Period</dt><dd>{{ pr.period }}</dd></div>{% endif %}
+        {% if pr.org != "" %}<div><dt>Institution</dt><dd class="inline-links">{{ pr.org | markdownify | remove: "<p>" | remove: "</p>" | strip }}</dd></div>{% endif %}
+        {% if pr.funding != "" %}<div><dt>Funding</dt><dd>{{ pr.funding }}</dd></div>{% endif %}
+        <div><dt>Role</dt><dd>{{ pr.role }}</dd></div>
+        <div><dt>Status</dt><dd><span class="badge{% if pr.status_key == 'active' %} venue{% elsif pr.status_key == 'upcoming' or pr.status_key == 'review' %} warm{% endif %} status">{{ pr.status }}</span></dd></div>
+      </dl>
+      </div>
+      <div>
+        <h3 class="project-title">{{ pr.title }}</h3>
+        <p class="project-desc">{{ pr.description }}</p>
+        {% if pr.outputs %}
+        <div class="project-outputs"><span class="lbl">Related outputs</span>
+          {% for oid in pr.outputs %}{% assign o = site.data.publications | where: "id", oid | first %}{% if o %}<a class="badge venue internal" href="{{ '/publications/' | relative_url }}#{{ o.id }}">{{ o.venue_short | default: o.venue }}</a>{% endif %}{% endfor %}
+        </div>
+        {% endif %}
+        <div class="tags">{% for t in pr.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="block" id="collaborations">
+  <div class="container">
+    {% include section-head.html title="Selected collaborations" count=site.data.collaborations.size %}
+    {% for c in site.data.collaborations %}
+    <article class="project">
+      <div class="project-side">
+      <span class="glyph">{% include icons/{{ c.icon }}.svg %}</span>
+      <dl class="project-meta">
+        <div><dt>Period</dt><dd>{{ c.period }}</dd></div>
+        <div><dt>Venue</dt><dd>{{ c.venue }}</dd></div>
+        <div><dt>Institution</dt><dd>{{ c.org }}</dd></div>
+        <div><dt>Role</dt><dd>{{ c.role }}</dd></div>
+      </dl>
+      </div>
+      <div>
+        <h3 class="project-title">{{ c.title }}</h3>
+        <p class="project-desc">{{ c.description }}</p>
+        {% if c.links %}
+        <div class="project-outputs"><span class="lbl">Related outputs</span>
+          {% for l in c.links %}{% if l.url contains "://" %}<a class="badge venue" href="{{ l.url | escape }}" target="_blank" rel="noopener">{{ l.label }}</a>{% else %}<a class="badge venue internal" href="{{ l.url | relative_url }}">{{ l.label }}</a>{% endif %}{% endfor %}
+        </div>
+        {% endif %}
+        <div class="tags">{% for t in c.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="block" id="experience">
+  <div class="container">
+    {% include section-head.html title="Research experience" %}
+    {% include timeline.html items=site.data.experience %}
+  </div>
+</section>

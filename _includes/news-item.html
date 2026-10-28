@@ -1,0 +1,8 @@
+{% assign n = include.n %}
+<li id="{{ n.date | date: '%Y-%m' }}-{{ n.title | slugify }}">
+  <div class="date">{{ n.date | date: "%b %Y" }}</div>
+  <div class="text inline-links">
+    <div class="news-title">{% if n.url %}<a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a>{% else %}{{ n.title }}{% endif %}</div>
+    {% if n.text %}<div class="news-detail">{{ n.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>{% endif %}
+  </div>
+</li>

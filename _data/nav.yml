@@ -1,0 +1,8 @@
+- { label: Research, url: /research/ }
+- { label: Publications, url: /publications/ }
+- { label: Talks, url: /talks/ }
+- { label: Funding, url: /funding/ }
+- { label: Honors, url: /honors/ }
+- { label: Teaching, url: /teaching/ }
+- { label: Service, url: /service/ }
+- { label: News, url: /news/ }

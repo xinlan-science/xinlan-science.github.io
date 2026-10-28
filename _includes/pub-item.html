@@ -1,0 +1,18 @@
+{% assign x = include.p %}{% assign link = "" %}{% if x.doi %}{% assign link = "https://doi.org/" | append: x.doi %}{% elsif x.url %}{% assign link = x.url %}{% elsif x.arxiv %}{% assign link = "https://arxiv.org/abs/" | append: x.arxiv %}{% endif %}
+<article class="pub" id="{{ x.id }}">
+  <div class="pub-year">{{ x.year }}</div>
+  <div>
+    <h3 class="pub-title">{% if link != "" %}<a href="{{ link | escape }}" target="_blank" rel="noopener">{{ x.title }}</a>{% else %}{{ x.title }}{% endif %}</h3>
+    <p class="pub-authors">{{ x.authors | escape | replace: "Lan, X.", "<b>Lan, X.</b>" }}</p>
+    <p class="pub-venue"><i>{{ x.venue | escape }}</i>{% if x.details %}, {{ x.details | escape }}{% endif %}{% if x.note %} · {{ x.note | escape }}{% endif %}</p>
+    <div class="badges">
+      {% if x.venue_short %}<span class="badge venue">{{ x.venue_short | escape }}</span>{% endif %}
+      {% if x.status %}<span class="badge warm">{{ x.status }}</span>{% endif %}
+      {% if x.award %}<span class="badge warm">{{ x.award }}</span>{% endif %}
+      {% if x.doi %}<a class="badge" href="https://doi.org/{{ x.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      {% if x.url %}<a class="badge" href="{{ x.url | escape }}" target="_blank" rel="noopener">{{ x.url_label | default: "Paper" }}</a>{% endif %}
+      {% if x.arxiv %}<a class="badge" href="https://arxiv.org/abs/{{ x.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+      {% if x.code %}<a class="badge" href="{{ x.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+    </div>
+  </div>
+</article>

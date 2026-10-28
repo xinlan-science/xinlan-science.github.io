@@ -1,0 +1,32 @@
+---
+layout: default
+title: Talks
+permalink: /talks/
+description: "Talks, posters, and conference abstracts by Xin Lan."
+---
+{% assign talks = site.data.talks | where: "section", "talk" %}
+{% assign abstracts = site.data.talks | where: "section", "abstract" %}
+{% capture intro %}<p>{{ talks.size }} talks and posters, and {{ abstracts.size }} conference abstracts, mostly at the American Geophysical Union and the American Association of Geographers meetings.</p>{% endcapture %}
+{% include page-header.html intro=intro %}
+
+<nav class="subnav" aria-label="On this page">
+  <div class="container"><ul>
+    <li><a href="#talks-posters">Talks &amp; posters <span class="count">{{ talks.size }}</span></a></li>
+    <li><a href="#abstracts">Conference abstracts <span class="count">{{ abstracts.size }}</span></a></li>
+  </ul></div>
+</nav>
+
+<div class="page-body has-subnav">
+  <section class="block" id="talks-posters">
+    <div class="container">
+      {% include section-head.html title="Talks &amp; posters" count=talks.size %}
+      <div class="pubs">{% for t in talks %}{% include talk-item.html t=t %}{% endfor %}</div>
+    </div>
+  </section>
+  <section class="block" id="abstracts">
+    <div class="container">
+      {% include section-head.html title="Conference abstracts" count=abstracts.size %}
+      <div class="pubs">{% for t in abstracts %}{% include talk-item.html t=t %}{% endfor %}</div>
+    </div>
+  </section>
+</div>

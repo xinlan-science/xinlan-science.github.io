@@ -1,0 +1,30 @@
+---
+title: Teaching
+permalink: /teaching/
+description: "Courses taught by Xin Lan at Michigan State University and the University of Pennsylvania."
+intro: >-
+  I have taught meteorology and geographic information science at Michigan State University, and
+  machine learning at the University of Pennsylvania.
+---
+<section class="block" id="teaching">
+  <div class="container">
+    {% include section-head.html title="Courses" %}
+    {% for b in site.data.teaching %}
+    <div class="teach-block">
+      <div class="teach-head">
+        <div><span class="teach-role">{{ b.role }}</span> <span class="teach-org">· {{ b.org }}</span></div>
+        <span class="teach-when">{{ b.period }}</span>
+      </div>
+      <table class="data-table">
+        <caption class="sr-only">{{ b.role }}, {{ b.org }}</caption>
+        <thead class="sr-only"><tr><th scope="col">Course</th><th scope="col">Title</th><th scope="col">Terms</th></tr></thead>
+        <tbody>
+        {% for c in b.courses %}
+          <tr><td class="c-mono" style="width:110px">{{ c.code }}</td><td class="c-main">{{ c.name }}</td><td class="c-sub">{{ c.terms }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endfor %}
+  </div>
+</section>

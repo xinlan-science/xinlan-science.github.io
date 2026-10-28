@@ -1,0 +1,8 @@
+<header class="page-header">
+  {% include contours.svg class="contours page-contours" %}
+  <div class="container">
+    <h1 class="page-title">{{ page.heading | default: page.title | escape }}</h1>
+    {% if include.intro %}<div class="page-intro prose">{{ include.intro }}</div>{% elsif page.intro %}<div class="page-intro prose">{{ page.intro | markdownify }}</div>{% endif %}
+    {% if include.note %}<p class="page-meta inline-links">{{ include.note }}</p>{% elsif page.note %}<p class="page-meta inline-links">{{ page.note | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>{% endif %}
+  </div>
+</header>

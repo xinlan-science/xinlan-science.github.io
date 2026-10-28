@@ -1,0 +1,57 @@
+title: Xin Lan
+description: >-
+  Xin Lan is a postdoctoral fellow studying how lakes respond to climate change
+  and human activities, using process knowledge, observations, and machine learning.
+url: https://xinlan-science.github.io
+baseurl: ""
+lang: en
+locale: en_US
+
+author:
+  name: Xin Lan
+  twitter: ShaneResearch
+twitter:
+  username: ShaneResearch
+  card: summary_large_image
+social:
+  name: Xin Lan
+  links:
+    - https://scholar.google.com/citations?user=hDHQtHAAAAAJ
+    - https://orcid.org/0000-0002-0607-2270
+    - https://www.researchgate.net/profile/Xin-Lan-20
+    - https://www.linkedin.com/in/xin-lan-585912184
+    - https://github.com/xinlan-technology
+    - https://x.com/ShaneResearch
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      image: /assets/img/og.png
+
+theme: null
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache

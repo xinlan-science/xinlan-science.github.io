@@ -1,0 +1,14 @@
+<ul class="tl">
+  {% for e in include.items %}
+  <li{% if e.flag == "current" %} class="now"{% endif %}>
+    <div class="when">{{ e.period | default: e.year }}</div>
+    <div class="what">{{ e.title | default: e.degree }}</div>
+    {% if e.program %}<div class="where"><span class="lbl">Program:</span> {{ e.program }}</div>{% endif %}
+    {% if e.orgs %}{% for o in e.orgs %}<div class="where inline-links">{{ o | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>{% endfor %}{% else %}<div class="where inline-links">{{ e.org | default: e.school | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>{% endif %}
+    {% if e.project %}<div class="detail"><span class="lbl">Project:</span> {{ e.project }}</div>{% endif %}
+    {% if e.dissertation %}<div class="detail"><span class="lbl">Dissertation:</span> {{ e.dissertation }}</div>{% endif %}
+    {% if e.thesis %}<div class="detail"><span class="lbl">Master's thesis:</span> {{ e.thesis }}</div>{% endif %}
+    {% if e.note %}<div class="note inline-links">{{ e.note | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,155 @@
+---
+layout: default
+title: "Xin Lan · Postdoctoral Fellow"
+permalink: /
+redirect_from:
+  - /about/
+  - /about.html
+---
+{% assign p = site.data.profile %}
+{% assign peer = site.data.publications | where: "section", "peer" %}
+{% assign projects = site.data.projects %}
+{% assign news = site.data.news | sort: "date" | reverse %}
+{% assign svc = site.data.service %}
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <p class="eyebrow">{{ p.role }} · {{ p.affiliation_short | escape }}</p>
+      <h1 class="name">{{ p.name }}</h1>
+      <p class="tagline">{{ p.tagline | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+      <div class="bio prose">{{ p.bio | markdownify }}</div>
+      {% include profile-links.html %}
+    </div>
+    <div class="portrait-wrap">
+      {% include contours.svg class="contours hero-contours" %}
+      <img class="portrait" src="{{ '/assets/img/profile-800.webp' | relative_url }}" srcset="{{ '/assets/img/profile-400.webp' | relative_url }} 400w, {{ '/assets/img/profile-800.webp' | relative_url }} 800w" sizes="(max-width: 900px) 70vw, 300px" width="800" height="800" alt="Portrait of Xin Lan" fetchpriority="high">
+    </div>
+  </div>
+</section>
+
+<div class="glance">
+  <div class="container glance-grid">
+    <div class="cell"><div class="num">{{ peer.size }}</div><div class="lab">Peer-reviewed papers</div></div>
+    <div class="cell"><div class="num">{{ p.citations }}<small>{{ p.citations_suffix }}</small></div><div class="lab">Citations · Google Scholar</div></div>
+    <div class="cell"><div class="num">{{ p.postdoc_funding_short }}<small>{{ p.postdoc_funding_suffix }}</small></div><div class="lab">Research funding as PI or Co-PI</div></div>
+    <div class="cell"><div class="num">{{ site.data.talks.size }}</div><div class="lab">Conference abstracts &amp; talks</div></div>
+  </div>
+</div>
+
+<section class="block" id="research">
+  <div class="container">
+    {% include section-head.html eyebrow="01 · Research" title="Current projects" more_url="/research/" more_label="All projects" %}
+    <div class="grid3">
+      {% for pr in projects %}{% include project-card.html pr=pr %}{% endfor %}
+      {% assign rem = projects.size | modulo: 3 %}{% if rem != 0 %}
+      <a class="card more-card" href="{{ '/research/' | relative_url }}">
+        <span class="meta">Also</span>
+        <h3 class="card-title">More on the research page</h3>
+        <p>Research interests, projects, selected collaborations, and research experience.</p>
+        <span class="more">See all research</span>
+      </a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="block" id="publications">
+  <div class="container">
+    {% include section-head.html eyebrow="02 · Publications" title="Newest publications" more_url="/publications/" more_label="All publications" %}
+    {% assign newest = site.data.publications | where: "section", "peer" %}
+    <div class="pubs">
+      {% for x in newest limit: 5 %}{% include pub-item.html p=x %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="block" id="background">
+  <div class="container">
+    {% include section-head.html eyebrow="03 · Background" title="Appointments &amp; education" %}
+    <div class="two">
+      <div>
+        <h3 class="sub-title">Appointments</h3>
+        {% include timeline.html items=site.data.appointments %}
+        <h3 class="sub-title spaced">Service</h3>
+        <ul class="tl">
+          {% for e in svc.editorial %}<li class="now"><div class="when">{{ e.years }}</div><div class="what">{{ e.role }}</div><div class="where"><i>{{ e.venue }}</i></div></li>{% endfor %}
+        </ul>
+      </div>
+      <div>
+        <h3 class="sub-title">Education</h3>
+        {% include timeline.html items=site.data.education %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="news">
+  <div class="container">
+    {% include section-head.html eyebrow="04 · News" title="Recent updates" more_url="/news/" more_label="All news" %}
+    <ul class="news">
+      {% for n in news limit: 5 %}{% include news-item.html n=n %}{% endfor %}
+    </ul>
+  </div>
+</section>
+
+{% assign pubs_all = site.data.publications %}
+{% assign grants_shown = site.data.grants %}
+{% assign awards_shown = site.data.awards | where: "selected", true %}
+{% assign honors_shown = site.data.awards | where: "honor", true %}
+{% assign n_awards = grants_shown.size | plus: awards_shown.size %}
+{% assign n_courses = 0 %}{% for b in site.data.teaching %}{% assign n_courses = n_courses | plus: b.courses.size %}{% endfor %}
+<section class="block" id="explore">
+  <div class="container">
+    {% include section-head.html eyebrow="05 · Explore" title="More on this site" %}
+    <div class="grid3">
+      <a class="card explore-card" href="{{ '/research/' | relative_url }}">
+        <span class="meta">{{ projects.size }} projects</span>
+        <h3 class="explore-title">Research</h3>
+        <p>Research interests, projects, selected collaborations, and research experience.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/publications/' | relative_url }}">
+        <span class="meta">{{ pubs_all.size }} papers and manuscripts</span>
+        <h3 class="explore-title">Publications</h3>
+        <p>Peer-reviewed papers, preprints, and manuscripts under review.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/talks/' | relative_url }}">
+        <span class="meta">{{ site.data.talks.size }} presentations</span>
+        <h3 class="explore-title">Talks</h3>
+        <p>Talks, posters, and conference abstracts, mostly at AGU and AAG.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/funding/' | relative_url }}">
+        <span class="meta">{{ n_awards }} grants and fellowships</span>
+        <h3 class="explore-title">Funding</h3>
+        <p>Research funding and student fellowships.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/honors/' | relative_url }}">
+        <span class="meta">{{ honors_shown.size }} honors</span>
+        <h3 class="explore-title">Honors</h3>
+        <p>Competition prizes at the provincial level and above.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/teaching/' | relative_url }}">
+        <span class="meta">{{ n_courses }} courses</span>
+        <h3 class="explore-title">Teaching</h3>
+        <p>Courses taught at Michigan State University and the University of Pennsylvania.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/service/' | relative_url }}">
+        <span class="meta">Editorial board · {{ site.data.service.reviewer.size }} journals</span>
+        <h3 class="explore-title">Service</h3>
+        <p>Young editorial board membership and journal reviewing.</p>
+        <span class="more">Open</span>
+      </a>
+      <a class="card explore-card" href="{{ '/news/' | relative_url }}">
+        <span class="meta">{{ news.size }} updates</span>
+        <h3 class="explore-title">News</h3>
+        <p>Papers, grants, appointments, and talks, newest first.</p>
+        <span class="more">Open</span>
+      </a>
+    </div>
+  </div>
+</section>

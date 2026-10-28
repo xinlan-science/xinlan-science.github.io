@@ -1,0 +1,21 @@
+---
+title: Honors
+permalink: /honors/
+description: "Honors received by Xin Lan at the provincial level and above."
+intro: "Only honors at the provincial level and above are listed; university-level awards are not."
+---
+{% assign honors = site.data.awards | where: "honor", true %}
+<section class="block" id="honors">
+  <div class="container">
+    {% include section-head.html title="Competition prizes" count=honors.size %}
+    <table class="data-table">
+      <caption class="sr-only">Honors</caption>
+      <thead class="sr-only"><tr><th scope="col">Year</th><th scope="col">Honor</th><th scope="col">Level</th></tr></thead>
+      <tbody>
+      {% for h in honors %}
+        <tr><td class="c-mono c-year">{{ h.year }}</td><td class="c-main">{{ h.name }}{% if h.note %}<div class="c-note">{{ h.note }}</div>{% endif %}</td><td class="c-level"><span class="tag">{{ h.level }}</span></td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>

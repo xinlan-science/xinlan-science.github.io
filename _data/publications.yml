@@ -1,0 +1,200 @@
+- id: shi2026harbor
+  section: peer
+  year: 2026
+  title: "Harbor Adapters and Harbor-Index: infrastructure and a curated meta-dataset for large-scale agentic evaluation"
+  authors: "Shi, L., Lin, H., Zhu, Z., … Lan, X., … & Shaw, A."
+  venue: "Advances in Neural Information Processing Systems"
+  venue_short: "NeurIPS 2026"
+  status: Accepted
+  arxiv: "2609.04298"
+
+- id: sun2026ale
+  section: peer
+  year: 2026
+  title: "Agents' Last Exam"
+  authors: "Sun, Y., Han, X., Zhang, W., … Lan, X., … & Song, D."
+  venue: "Advances in Neural Information Processing Systems"
+  venue_short: "NeurIPS 2026"
+  status: Accepted
+  arxiv: "2606.05405"
+
+- id: li2026skillsbench
+  section: peer
+  year: 2026
+  title: "SkillsBench: benchmarking how well agent skills work across diverse tasks"
+  authors: "Li, X., Liu, Y., Chen, W., … Lan, X., … & Song, D."
+  venue: "Advances in Neural Information Processing Systems"
+  venue_short: "NeurIPS 2026"
+  status: Accepted
+  arxiv: "2602.12670"
+
+- id: merrill2026terminalbench
+  section: peer
+  year: 2026
+  title: "Terminal-Bench: benchmarking agents on hard, realistic tasks in command line interfaces"
+  authors: "Merrill, M. A., Shaw, A. G., Carlini, N., … Lan, X., … & Schmidt, L."
+  venue: "International Conference on Learning Representations"
+  venue_short: "ICLR 2026"
+  details: "40903–40986"
+  url: "https://proceedings.iclr.cc/paper_files/paper/2026/hash/444a3737adaee10d86ad2ef5f74468e6-Abstract-Conference.html"
+  url_label: "Proceedings"
+  arxiv: "2601.11868"
+
+- id: li2025urbannature
+  section: peer
+  year: 2025
+  title: "Acute mental health benefits of urban nature"
+  authors: "Li, Y., Mao, Y., Mandle, L., … Lan, X., … & Guerry, A. D."
+  venue: "Nature Cities"
+  venue_short: "Nature Cities"
+  details: "2(8), 720–731"
+  doi: "10.1038/s44284-025-00286-y"
+
+- id: jia2025inequality
+  section: peer
+  year: 2025
+  title: "Climate change, social environment, health, and urban inequality: developing a novel adaptive evaluation framework"
+  authors: "Jia, N., Li, Y., Jiang, Z., … Lan, X., … & Chen, R."
+  venue: "Sustainable Cities and Society"
+  venue_short: "SCS"
+  details: "127, 106443"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S2210670725003191"
+
+- id: jia2025soybean
+  section: peer
+  year: 2025
+  title: "Global soybean trade intensifies the impacts of dietary transition on human mobility"
+  authors: "Jia, N., Yang, H., Lan, X., … & Chen, R."
+  venue: "iScience"
+  venue_short: "iScience"
+  details: "28(5), 112426"
+  url: "https://www.sciencedirect.com/science/article/pii/S258900422500687X"
+
+- id: lan2023seneca
+  section: peer
+  year: 2023
+  title: "Long-term water temperature changes in Seneca Lake and their nexus to climate change and human activities"
+  authors: "Lan, X., Luo, L., Xu, Z., Qiu, Y., & Yu, X."
+  venue: "Environmental Research Communications"
+  venue_short: "ERC"
+  details: "5(11), 111003"
+  doi: "10.1088/2515-7620/acfd20"
+  award: "Outstanding Student Publication Award"
+
+- id: li2023transboundary
+  section: peer
+  year: 2023
+  title: "Transboundary flows in the metacoupled Anthropocene: typology, methods, and governance for global sustainability"
+  authors: "Li, Y., Jia, N., Yu, X., Manning, N., Lan, X., & Liu, J."
+  venue: "Ecology and Society"
+  venue_short: "Ecol. Soc."
+  details: "28(3), 19"
+  url: "https://ecologyandsociety.org/vol28/iss3/art19/"
+
+- id: liao2021biocl
+  section: peer
+  year: 2021
+  title: "Bismuth oxychloride nanowires for photocatalytic decomposition of organic dyes"
+  authors: "Liao, X., Lan, X.*, Ni, N., Yang, P., Yang, Y., & Chen, X."
+  venue: "ACS Applied Nano Materials"
+  venue_short: "ACS Appl. Nano Mater."
+  details: "4(4), 3887–3892"
+  note: "* co-first author"
+  doi: "10.1021/acsanm.1c00288"
+
+- id: lyu2020marine
+  section: peer
+  year: 2020
+  title: "Interaction between <i>Marinibacillus campisalis</i> and oceanic ferromanganese nodules"
+  authors: "Lyu, J., Lan, X., Jiang, M., Cao, W., Saren, G., Yu, X., & Chang, F."
+  venue: "Marine Sciences"
+  venue_short: "Marine Sciences"
+  details: "44(1), 36–45"
+  note: "In Chinese"
+  url: "http://qdhys.ijournal.cn/hykx/ch/reader/view_abstract.aspx?file_no=20200104"
+
+- id: hussain2019microalgae
+  section: peer
+  year: 2019
+  title: "Determining indigenous microalgae species in Malakand water bodies for potential use as a biofuel production source"
+  authors: "Hussain, F., Lu, B., Lan, X., … & Shuaib, M."
+  venue: "Polish Journal of Environmental Studies"
+  venue_short: "Pol. J. Environ. Stud."
+  details: "28(2), 669–679"
+  url: "https://www.pjoes.com/Determining-Indigenous-Microalgae-Species-nin-Malakand-Water-Bodies-for-Potential,84919,0,2.html"
+
+- id: lan2017phytoplankton
+  section: peer
+  year: 2017
+  title: "Diel vertical distribution patterns of phytoplankton community in Shidu Reservoir, Beijing"
+  authors: "Lan, X., Lyu, J., Ma, J., Liang, H., Wang, H., & Yang, J."
+  venue: "Chinese Journal of Ecology"
+  venue_short: "Chin. J. Ecol."
+  details: "36(7), 1877–1884"
+  note: "In Chinese"
+  url: "https://chn.oversea.cnki.net/kcms/detail/detail.aspx?filename=STXZ201707014&dbcode=CJFQ&dbname=CJFDLAST2017&uniplatform=NZKPT"
+
+- id: huang2026nexus
+  section: preprint
+  year: 2026
+  title: "Water-energy-data nexus reveals sustainability gaps and priorities for AI infrastructure"
+  authors: "Huang, J., Xiao, G., Lan, X., Yin, C., Jiang, Z., Cui, Y., & Liu, J."
+  venue: "arXiv preprint"
+  details: "arXiv:2610.23614"
+  url: "https://arxiv.org/abs/2610.23614"
+  url_label: arXiv
+
+- id: zheng2026ninea
+  section: preprint
+  year: 2026
+  title: "Designing human-AI collaborative science: the 9A framework"
+  authors: "Zheng, Z., Pan, L., & Lan, X."
+  venue: "arXiv preprint"
+  details: "arXiv:2610.22948"
+  url: "https://arxiv.org/abs/2610.22948"
+  url_label: arXiv
+
+- id: deng2025fable
+  section: preprint
+  year: 2025
+  title: "FABLE: a localized, targeted adversarial attack on weather forecasting models"
+  authors: "Deng, Y., Galib, A. H., Lan, X., Gunn, J., Tan, P. N., & Luo, L."
+  venue: "arXiv preprint"
+  details: "arXiv:2505.12167"
+  url: "https://arxiv.org/abs/2505.12167"
+  url_label: arXiv
+
+- id: hu2025rl
+  section: preprint
+  year: 2025
+  title: "A reinforcement learning (RL) tool for optimizing irrigation scheduling"
+  authors: "Hu, X., Lan, X.†, & Cai, X.†"
+  venue: "SSRN preprint"
+  details: "5804902"
+  note: "† corresponding author"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804902"
+  url_label: SSRN
+
+- id: lan-jhydrol
+  section: review
+  title: "Integrating process-based knowledge with interpretable ensemble deep learning for lake temperature prediction in the Midwestern United States"
+  authors: "Lan, X., Luo, L., Tan, P. N., Zheng, Z., Dang, H., & Wan, L."
+  venue: "Journal of Hydrology"
+  venue_short: "J. Hydrol."
+  status: "Under second-round review"
+
+- id: lan-jgrmlc
+  section: review
+  title: "Beyond the surface: improving lake subsurface water temperature prediction via simulation-based pre-training and adaptive ensembling"
+  authors: "Lan, X., Luo, L., Deng, Y., Pan, T., & Zheng, Z."
+  venue: "Journal of Geophysical Research: Machine Learning and Computation"
+  venue_short: "JGR: MLC"
+  status: "Major revision"
+
+- id: lan-erl
+  section: review
+  title: "Large language model-assisted review of urban climate hazards reveals critical research gaps across the most climate-vulnerable regions"
+  authors: "Lan, X., Yu, X., Zheng, Z., … & Huang, J."
+  venue: "Environmental Research Letters"
+  venue_short: "ERL"
+  status: "Major revision"

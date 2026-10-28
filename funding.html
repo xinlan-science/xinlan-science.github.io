@@ -1,0 +1,42 @@
+---
+title: Funding
+permalink: /funding/
+redirect_from:
+  - /awards/
+description: "Research funding and student fellowships received by Xin Lan."
+intro: "Research funding as a postdoctoral researcher, and fellowships and scholarships from my student years."
+---
+{% assign grants = site.data.grants %}
+{% assign picks = site.data.awards | where: "selected", true %}
+{% assign p = site.data.profile %}
+<section class="block" id="funding">
+  <div class="container">
+    {% include section-head.html title="Research funding" stat=p.postdoc_funding stat_label="as PI or Co-PI" %}
+    <table class="data-table">
+      <caption class="sr-only">Research funding</caption>
+      <thead class="sr-only"><tr><th scope="col">Year</th><th scope="col">Grant</th><th scope="col">Amount</th></tr></thead>
+      <tbody>
+      {% for g in grants %}
+        <tr><td class="c-mono c-year">{{ g.year }}</td><td class="c-main">{{ g.program }}<div class="c-note">{{ g.funder }} · {{ g.role }}</div>{% if g.host %}<div class="c-note">{{ g.host }}{% if g.people %} · {{ g.people }}{% endif %}</div>{% endif %}<div class="c-note amt-inline">{{ g.amount }}</div></td><td class="c-mono c-amount">{{ g.amount }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <p class="table-note">The total is in US dollars, with the CAD 140,000 Canada Impact+ award converted.</p>
+  </div>
+</section>
+
+<section class="block" id="student-awards">
+  <div class="container">
+    {% include section-head.html title="Student fellowships" stat=p.student_funding stat_label="in total" %}
+    <table class="data-table">
+      <caption class="sr-only">Student fellowships, scholarships, and research grants</caption>
+      <thead class="sr-only"><tr><th scope="col">Year</th><th scope="col">Fellowship</th><th scope="col">Amount</th></tr></thead>
+      <tbody>
+      {% for a in picks %}
+        <tr><td class="c-mono c-year">{{ a.year }}</td><td class="c-main">{% if a.url %}<a href="{{ a.url | escape }}" target="_blank" rel="noopener">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}{% if a.amount != "" %}<div class="c-note amt-inline">{{ a.amount }}</div>{% endif %}</td><td class="c-mono c-amount">{{ a.amount }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <p class="table-note">The total also includes smaller travel and conference grants not listed here.</p>
+  </div>
+</section>

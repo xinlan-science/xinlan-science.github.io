@@ -1,0 +1,29 @@
+name: Xin Lan
+role: Postdoctoral Fellow
+affiliation_short: Michigan State University & University of Michigan
+email: lanxin1@msu.edu
+
+citations: "1,100"
+citations_suffix: "+"
+citations_asof: October 2026
+
+postdoc_funding: "≈ $189,000"
+postdoc_funding_short: "$189"
+postdoc_funding_suffix: "K"
+student_funding: "$33,970"
+
+tagline: "Understanding how lakes respond to a changing world, with *physics* and *machine learning*."
+bio: >-
+  I work in AI for Science, studying freshwater lakes at the intersection of AI and hydrology.
+  As a postdoctoral fellow with Dr. Jianguo (Jack) Liu at Michigan State
+  University and the University of Michigan, I trace the metacoupled, multi-shock drivers of
+  Lake Erie's harmful algal bloom extremes. My work combines physics-guided machine learning
+  with process-based models and long-term observations to understand and forecast how lakes change.
+
+links:
+  - { label: Google Scholar, url: "https://scholar.google.com/citations?user=hDHQtHAAAAAJ", icon: scholar }
+  - { label: ORCID, url: "https://orcid.org/0000-0002-0607-2270", icon: orcid }
+  - { label: ResearchGate, url: "https://www.researchgate.net/profile/Xin-Lan-20", icon: researchgate }
+  - { label: GitHub, url: "https://github.com/xinlan-technology", icon: github }
+  - { label: LinkedIn, url: "https://www.linkedin.com/in/xin-lan-585912184", icon: linkedin }
+  - { label: X, url: "https://x.com/ShaneResearch", icon: x }

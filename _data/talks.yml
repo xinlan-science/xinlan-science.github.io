@@ -1,0 +1,156 @@
+- section: talk
+  type: poster
+  date: 2026-06-01
+  title: "Beyond the surface: improving lake subsurface water temperature prediction via simulation-based pre-training and adaptive ensembling"
+  authors: "Lan, X."
+  venue: "AI+Science Summer School, University of Chicago"
+  url: "https://datascience.uchicago.edu/events/ai-science-summer-school-2026/"
+  url_label: Event
+
+- section: talk
+  type: oral
+  date: 2025-10-01
+  title: "Beyond the surface: improving subsurface lake temperature prediction via simulation-based pre-training and adaptive ensembling"
+  authors: "Lan, X."
+  venue: "Environmental Science and Policy Program Fall Research Symposium, Michigan State University"
+  url: "https://espp.msu.edu/news-events/signature-events/fall-research-symposium-2025.html"
+  url_label: Event
+
+- section: talk
+  type: oral
+  date: 2025-03-01
+  title: "Process-guided ensemble deep learning models for predicting lake temperature profiles"
+  authors: "Lan, X."
+  venue: "Fate of the Earth: Our Waters Symposium, Michigan State University"
+  url: "https://water.msu.edu/our-waters-symposium/concurrent-talks-session-2#s2t3"
+  url_label: Event
+
+- section: talk
+  type: oral
+  date: 2024-10-01
+  title: "Forecasting the vertical lake water temperature profile with the process-guided deep learning approach"
+  authors: "Lan, X."
+  venue: "Environmental Science and Policy Program Fall Research Symposium, Michigan State University"
+  url: "https://espp.msu.edu/news-events/signature-events/fall-research-symposium-2024.html"
+  url_label: Event
+
+- section: talk
+  type: oral
+  date: 2022-10-01
+  title: "Long-term vertical water temperature change under climate change in a lake, a Seneca Lake example"
+  authors: "Lan, X."
+  venue: "Environmental Science and Policy Program Fall Research Symposium, Michigan State University"
+  url: "https://espp.msu.edu/news-events/signature-events/fall-research-symposium-2022.html"
+  url_label: Event
+
+- section: abstract
+  type: abstract
+  date: 2025-12-01
+  title: "Beyond the surface: improving subsurface lake temperature prediction via simulation-based pre-training and adaptive ensembling"
+  authors: "Lan, X., Luo, L., Deng, Y., … & Zheng, Z."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H13N-1244"
+
+- section: abstract
+  type: abstract
+  date: 2025-12-01
+  title: "Future flood risk assessment in the contiguous US using IDF-based classification and projections"
+  authors: "Xu, Z., Sohn, W., & Lan, X."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "NH42A-02"
+
+- section: abstract
+  type: abstract
+  date: 2025-03-01
+  title: "Process-guided machine learning models for predicting lake temperature profiles"
+  authors: "Lan, X., Luo, L., Deng, Y., & Tan, P. N."
+  venue: "American Association of Geographers Annual Meeting"
+  code: "43767"
+
+- section: abstract
+  type: abstract
+  date: 2024-12-01
+  title: "Assessing flood dynamics mechanisms and future changes in watershed typologies: a national study integrating flood intensity, duration, and frequency (Flood-IDF)"
+  authors: "Xu, Z., Sohn, W., & Lan, X."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H13I-1118"
+
+- section: abstract
+  type: abstract
+  date: 2024-12-01
+  title: "AcmNet: a dual-branch attention-based deep learning framework for improving large-scale crop mapping using sparse seasonal satellite imagery"
+  authors: "Jia, N., Zhang, Z., Liu, J., … Lan, X., … & Song, Q."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "B53D-1772"
+
+- section: abstract
+  type: abstract
+  date: 2023-12-01
+  title: "Assessing the water coverage variability during drought and unraveling its driving factors in arid and humid areas"
+  authors: "Lan, X., Luo, L., & Qiu, Y."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H52G-08"
+
+- section: abstract
+  type: abstract
+  date: 2023-12-01
+  title: "Bridging gaps and balancing generalizability with specificity: coupled human and natural systems frameworks for real-world applications in a changing world"
+  authors: "Shope, M., Khajavigodellou, Y., Lan, X., & Chen, J."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "SY52B-05"
+
+- section: abstract
+  type: abstract
+  date: 2023-12-01
+  title: "Investigating fair water trading markets and economic impacts to overcome scarcity challenges in the Lower Colorado River Basin"
+  authors: "Josset, L., Lan, X., Lall, U., & Luo, L."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "GC41O-01"
+
+- section: abstract
+  type: abstract
+  date: 2023-12-01
+  title: "Assessing flood risk and watershed typologies in the continental United States: a machine learning approach integrating flood intensity, duration and frequency"
+  authors: "Xu, Z., Sohn, W., & Lan, X."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H31Q-1701"
+
+- section: abstract
+  type: abstract
+  date: 2023-11-01
+  title: "Long-term water temperature change in Seneca Lake and its nexus to climate change and human activities"
+  authors: "Lan, X."
+  venue: "East Lakes Division of the American Association of Geographers Annual Meeting"
+  code: "28858"
+
+- section: abstract
+  type: abstract
+  date: 2023-03-01
+  title: "Public acceptance of renewable energy after the power crisis in the context of climate change"
+  authors: "Lan, X., Yu, X., & Luo, L."
+  venue: "American Association of Geographers Annual Meeting"
+  code: "25626"
+
+- section: abstract
+  type: abstract
+  date: 2022-12-01
+  title: "Long-term temperature change in a lake under climate change"
+  authors: "Lan, X., Luo, L., & Xu, Z."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H32P-1126"
+
+- section: abstract
+  type: abstract
+  date: 2021-12-01
+  title: "Potential effects of climate change on historical streamflow and water temperature in the southwestern United States"
+  authors: "Lan, X., Luo, L., & Pokhrel, Y."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H15D-1083"
+
+- section: abstract
+  type: abstract
+  date: 2020-12-01
+  title: "Investigating the potential of consolidating water utilities to address water quality risks and population change in California, USA"
+  authors: "Lan, X., Josset, L., Allaire, M., & Lall, U."
+  venue: "American Geophysical Union Fall Meeting"
+  code: "H173-05"
