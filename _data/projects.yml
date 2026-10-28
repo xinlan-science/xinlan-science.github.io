@@ -21,7 +21,7 @@
   tags: [HABs, Metacoupling, Physics-guided ML, Lake Erie]
 
 - slug: lake-temperature
-  title: "Process-guided ensemble deep learning for lake vertical temperature prediction"
+  title: "Physics-guided ensemble deep learning for lake vertical temperature prediction"
   card_meta: "Dissertation · J. Hydrology & JGR: MLC (in review)"
   period: "Sep 2021 – Apr 2026"
   org: "Hydroclimatology Research Group, Michigan State University"
@@ -30,14 +30,14 @@
   status: Completed
   status_key: completed
   icon: chart
-  summary: "Three studies of vertical lake temperature: long-term observations, a process-guided ensemble deep learning model, and a regional application across Midwestern lakes."
+  summary: "Three studies of vertical lake temperature: long-term observations, a physics-guided ensemble deep learning model, and a regional application across Midwestern lakes."
   description: >-
     Water temperature regulates metabolic rates, nutrient cycling, and oxygen availability throughout
     a lake's water column, and climate change is altering lake thermal structure. My dissertation
     studied vertical lake temperature dynamics in three steps: an observational analysis of long-term
     thermal change in Seneca Lake and its links to climate change and human activities; a
-    process-guided ensemble deep learning model that is pretrained on process-model simulations and
+    physics-guided ensemble deep learning model that is pretrained on process-model simulations and
     then fine-tuned with observations; and a regional application to lakes across the Midwestern
     United States.
-  tags: [Lake temperature, Process-guided DL, Ensemble learning, Climate change]
+  tags: [Lake temperature, Physics-guided ML, Ensemble learning, Climate change]
   outputs: [lan2023seneca, lan-jhydrol, lan-jgrmlc]
