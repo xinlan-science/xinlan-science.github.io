@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% include page-header.html %}
+{% if page.subnav %}
+<nav class="subnav" aria-label="On this page">
+  <div class="container"><ul>{% for s in page.subnav %}<li><a href="#{{ s.id }}">{{ s.label }}</a></li>{% endfor %}</ul></div>
+</nav>
+{% endif %}
+<div class="page-body{% if page.subnav %} has-subnav{% endif %}">
+{{ content }}
+</div>

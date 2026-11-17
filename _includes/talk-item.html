@@ -1,0 +1,14 @@
+{% assign t = include.t %}
+<article class="pub">
+  <div class="pub-year">{{ t.date | date: "%Y" }}</div>
+  <div>
+    <h3 class="pub-title">{% if t.url %}<a href="{{ t.url | escape }}" target="_blank" rel="noopener">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h3>
+    <p class="pub-authors">{{ t.authors | escape | replace: "Lan, X.", "<b>Lan, X.</b>" }}</p>
+    <p class="pub-venue"><i>{{ t.venue | escape }}</i> · {{ t.date | date: "%b %Y" }}</p>
+    <div class="badges">
+      <span class="badge venue">{{ t.type | capitalize }}</span>
+      {% if t.code %}<span class="badge">{{ t.code }}</span>{% endif %}
+      {% if t.url %}<a class="badge" href="{{ t.url | escape }}" target="_blank" rel="noopener">{{ t.url_label | default: "Abstract" }}</a>{% endif %}
+    </div>
+  </div>
+</article>

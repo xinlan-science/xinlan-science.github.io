@@ -1,0 +1,31 @@
+- title: "Terminal-Bench: benchmarking AI agents on hard, realistic terminal tasks"
+  period: "2026"
+  venue: "ICLR 2026"
+  org: "Stanford University · Laude Institute · Harbor"
+  role: "Task contributor and co-author"
+  icon: terminal
+  description: >-
+    Terminal-Bench is a benchmark of hard, realistic command-line tasks for AI agents, led by Stanford
+    University and the Laude Institute. OpenAI, Anthropic, and Google report Terminal-Bench scores when
+    they release new models, which makes it one of the standard tests of frontier coding agents. I
+    contributed the lake-temp-glm task, built on my lake temperature research, in which an agent must
+    train a lake temperature model from sparse observations.
+  links:
+    - { label: Paper, url: /publications/#merrill2026terminalbench }
+    - { label: Task, url: "https://github.com/harbor-framework/terminal-bench/pull/637" }
+  tags: [AI agents, Benchmarks, Lake temperature]
+
+- title: "Acute mental health benefits of urban nature"
+  period: "2025"
+  venue: "Nature Cities"
+  org: "Natural Capital Alliance, Stanford University"
+  role: "Co-author"
+  icon: city
+  description: >-
+    A systematic review of 449 studies and a meta-analysis of 78 field experiments on how urban nature
+    affects 12 mental health outcomes. Exposure to urban nature, especially forests and parks, reduces
+    depression and anxiety and improves well-being across age groups, with the largest benefits among
+    young adults.
+  links:
+    - { label: Paper, url: /publications/#li2025urbannature }
+  tags: [Urban nature, Mental health, Sustainability]

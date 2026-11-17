@@ -1,0 +1,18 @@
+---
+title: News
+permalink: /news/
+description: "News and updates from Xin Lan: papers, grants, appointments, and talks."
+intro: "Papers, grants, appointments, and talks."
+---
+{% assign items = site.data.news | sort: "date" | reverse %}
+{% assign years = items | group_by_exp: "n", "n.date | date: '%Y'" %}
+<section class="block" id="all-news">
+  <div class="container">
+    {% for y in years %}
+    <div class="news-year" id="y{{ y.name }}">
+      <h2 class="sec-title">{{ y.name }}</h2>
+      <ul class="news">{% for n in y.items %}{% include news-item.html n=n %}{% endfor %}</ul>
+    </div>
+    {% endfor %}
+  </div>
+</section>

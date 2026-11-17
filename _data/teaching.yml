@@ -1,0 +1,13 @@
+- role: Instructor
+  org: "Department of Geography, Michigan State University"
+  period: "May 2021 – Jun 2025"
+  courses:
+    - { code: "GEO 203V", name: "Introduction to Meteorology", terms: "May – Jun 2025 · May – Aug 2021" }
+    - { code: "GEO 221Lv", name: "Introduction to Geographic Information Lab", terms: "Sep – Dec 2022" }
+- role: Teaching Assistant
+  org: "Department of Geography, Michigan State University"
+  period: "Sep 2020 – Apr 2021"
+  courses:
+    - { code: "GEO 337", name: "Geography of East Asia", terms: "Jan – Apr 2021" }
+    - { code: "ISS 315", name: "Global Diversity and Interdependence", terms: "Sep 2020 – Apr 2021" }
+    - { code: "GEO 203", name: "Introduction to Meteorology", terms: "Sep – Dec 2020" }

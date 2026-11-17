@@ -1,0 +1,25 @@
+{% assign p = site.data.profile %}
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div>
+      <div class="wordmark">{{ p.name }}</div>
+      <div class="footer-line"><a href="mailto:{{ p.email }}">{{ p.email }}</a></div>
+      <div class="footer-updated">Last updated {{ site.time | date: "%B %Y" }}</div>
+    </div>
+    <div class="footer-cols">
+      <nav class="footer-col" aria-label="Site pages">
+        <div class="footer-label">Pages</div>
+        <ul class="footer-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          {% for item in site.data.nav %}<li><a href="{{ item.url | relative_url }}">{{ item.label | escape }}</a></li>{% endfor %}
+        </ul>
+      </nav>
+      <div class="footer-col">
+        <div class="footer-label">Elsewhere</div>
+        <ul class="footer-links">
+          {% for l in p.links %}<li><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></li>{% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>

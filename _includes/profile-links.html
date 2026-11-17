@@ -1,0 +1,5 @@
+{% assign p = site.data.profile %}
+<ul class="chip-list" aria-label="Profiles and contact">
+  <li><a class="chip" href="mailto:{{ p.email }}">{% include icons/mail.svg %}Email</a></li>
+  {% for l in p.links %}<li><a class="chip" href="{{ l.url }}" target="_blank" rel="noopener">{% include icons/{{ l.icon }}.svg %}{{ l.label }}</a></li>{% endfor %}
+</ul>

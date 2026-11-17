@@ -1,0 +1,13 @@
+- { year: 2025, selected: true, name: "Dissertation Completion Fellowship", amount: "$9,000" }
+- { year: 2025, selected: true, name: "Environmental Science and Policy Program Summer Research Fellowship", amount: "$900", url: "https://espp.msu.edu/resources/summer-research-fellowships.html" }
+- { year: 2025, selected: true, name: "Dr. Delia Koo Global Student Scholarship", amount: "$1,500" }
+- { year: 2024, selected: true, name: "Owen Gregg Global Climate Change Research Award", amount: "$1,000" }
+- { year: 2024, selected: true, name: "Outstanding Student Publication Award, Environmental Science and Policy Program", amount: "$500", url: "https://espp.msu.edu/resources/publication-awards.html" }
+- { year: 2024, selected: true, name: "Kellogg Biological Station Long-term Ecological Research Fellowship", amount: "$7,500", url: "https://lter.kbs.msu.edu/get-involved/lter-graduate-fellowships/" }
+- { year: 2024, selected: true, name: "Dr. Delia Koo Global Student Scholarship", amount: "$2,870" }
+- { year: 2023, selected: true, name: "Cloud Computing Fellowship", amount: "$300", url: "https://icer.msu.edu/News/2023-Cloud-Computing-Fellows-Embark-on-Journey-of-Innovation" }
+- { year: 2023, selected: true, name: "Competitive Research Grant, Environmental Science and Policy Program", amount: "$3,650", url: "https://espp.msu.edu/resources/competitive-research-grant.html" }
+
+- { year: 2014, honor: true, name: "First Prize, 7th National Marine Knowledge Competition", level: National, note: "Top 10 in China", amount: "" }
+- { year: 2014, honor: true, name: "First Prize, Beijing Marine Knowledge Competition", level: Beijing, note: "Top 1 in Beijing", amount: "" }
+- { year: 2013, honor: true, name: "Third Prize, 6th National Marine Knowledge Competition", level: National, amount: "" }

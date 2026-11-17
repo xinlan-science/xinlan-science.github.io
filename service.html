@@ -1,0 +1,24 @@
+---
+title: Service
+permalink: /service/
+description: "Editorial board service and journal reviewing by Xin Lan."
+intro: >-
+  I serve on the young editorial board of *Water and Sustainability* and review for journals in
+  hydrology, water resources, and open-source scientific software.
+---
+{% assign s = site.data.service %}
+<section class="block" id="service">
+  <div class="container">
+    {% include section-head.html title="Editorial board &amp; reviewing" %}
+    <div class="two">
+      <div>
+        <h3 class="sub-title">Editorial board</h3>
+        <ul class="plain-list">{% for e in s.editorial %}<li><div class="pl-main">{{ e.role }}</div><div class="pl-sub"><i>{{ e.venue }}</i></div><div class="pl-when">{{ e.years }}</div></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h3 class="sub-title">Journal reviewer</h3>
+        <ul class="plain-list">{% for e in s.reviewer %}<li><div class="pl-main">{% if e.url %}<a href="{{ e.url | escape }}" target="_blank" rel="noopener">{{ e.venue }}</a>{% else %}{{ e.venue }}{% endif %}</div>{% if e.note %}<div class="pl-sub">{{ e.note }}</div>{% endif %}<div class="pl-when">{{ e.years }}</div></li>{% endfor %}</ul>
+      </div>
+    </div>
+  </div>
+</section>

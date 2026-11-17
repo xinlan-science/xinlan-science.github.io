@@ -1,0 +1,7 @@
+<div class="sec-head{% if include.stat %} has-stat{% endif %}">
+  <div>
+    {% if include.eyebrow %}<p class="eyebrow">{{ include.eyebrow }}</p>{% endif %}
+    <h2 class="sec-title">{{ include.title }}</h2>
+  </div>
+  {% if include.more_url %}<a class="more" href="{{ include.more_url | relative_url }}">{{ include.more_label }}</a>{% elsif include.stat %}<div class="sec-stat"><div class="num">{{ include.stat }}</div><div class="lab">{{ include.stat_label }}</div></div>{% elsif include.count %}<span class="sec-count">{{ include.count }}</span>{% endif %}
+</div>

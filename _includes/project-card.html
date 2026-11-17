@@ -1,0 +1,8 @@
+{% assign pr = include.pr %}
+<a class="card" href="{{ '/research/' | relative_url }}#{{ pr.slug }}">
+  <span class="glyph">{% include icons/{{ pr.icon }}.svg %}</span>
+  <span class="meta">{{ pr.card_meta }}</span>
+  <h3 class="card-title">{{ pr.title }}</h3>
+  <p>{{ pr.summary }}</p>
+  <span class="tags">{% for t in pr.tags limit: 3 %}<span class="tag">{{ t }}</span>{% endfor %}</span>
+</a>

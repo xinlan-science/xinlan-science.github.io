@@ -1,0 +1,43 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+description: "Peer-reviewed papers, preprints, and manuscripts by Xin Lan."
+---
+{% assign pubs = site.data.publications %}
+{% assign peer = pubs | where: "section", "peer" %}
+{% assign pre = pubs | where: "section", "preprint" %}
+{% assign rev = pubs | where: "section", "review" %}
+{% assign p = site.data.profile %}
+{% capture intro %}<p>{{ peer.size }} peer-reviewed papers, {{ pre.size }} preprints and reports, and {{ rev.size }} manuscripts under review, with {{ p.citations }}{{ p.citations_suffix }} citations on Google Scholar as of {{ p.citations_asof }}.</p><p>Highlights include work in <i>Nature Cities</i> and <i>Sustainable Cities and Society</i>, and at the International Conference on Learning Representations and the Conference on Neural Information Processing Systems.</p>{% endcapture %}
+{% capture note %}<b>Lan, X.</b> marks my name · * co-first author · † corresponding author · Also on <a href="{{ p.links[0].url }}" target="_blank" rel="noopener">Google Scholar</a>{% endcapture %}
+{% include page-header.html intro=intro note=note %}
+
+<nav class="subnav" aria-label="On this page">
+  <div class="container"><ul>
+    <li><a href="#peer-reviewed">Peer-reviewed <span class="count">{{ peer.size }}</span></a></li>
+    <li><a href="#preprints">Preprints &amp; reports <span class="count">{{ pre.size }}</span></a></li>
+    <li><a href="#under-review">Under review <span class="count">{{ rev.size }}</span></a></li>
+  </ul></div>
+</nav>
+
+<div class="page-body has-subnav">
+  <section class="block" id="peer-reviewed">
+    <div class="container">
+      {% include section-head.html title="Peer-reviewed papers" count=peer.size %}
+      <div class="pubs">{% for x in peer %}{% include pub-item.html p=x %}{% endfor %}</div>
+    </div>
+  </section>
+  <section class="block" id="preprints">
+    <div class="container">
+      {% include section-head.html title="Preprints &amp; technical reports" count=pre.size %}
+      <div class="pubs">{% for x in pre %}{% include pub-item.html p=x %}{% endfor %}</div>
+    </div>
+  </section>
+  <section class="block" id="under-review">
+    <div class="container">
+      {% include section-head.html title="Manuscripts under review" count=rev.size %}
+      <div class="pubs">{% for x in rev %}{% include pub-item.html p=x %}{% endfor %}</div>
+    </div>
+  </section>
+</div>
